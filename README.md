@@ -74,6 +74,9 @@ The site will be visited by professionals from schools, colleges, universities a
 
 ### Colour
 Color mind was used to generate a palette of neutral colours for the site that are soft with a yellow that offers a distinctive contrast to add a splash off colour. This was to ensure that the site looks professional.
+<br>
+
+![Colour scheme](docs/features/colormind.png)
 
 ### Fonts
 Google fonts has been imported and “Montserrat” has been used for all the text inside the website with sans-serif selected if a browser does not support the prior font.
