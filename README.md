@@ -65,3 +65,25 @@ The project gives an overview of the services provided by ‘STEM Stars’, exam
 12.	As the site owner I want the users to be able to see examples of mentors that they can access including their bios.
 13.	As the site owner I want users to be able to see what services STEM Stars offers.
 14.	As the site owner I want users to be able to contact and re-contact STEM Stars for more information via a form
+
+
+## Design
+
+### Design Choices
+The site will be visited by professionals from schools, colleges, universities and companies so the site is required to look professional, clear and concise. 
+
+### Colour
+Color mind was used to generate a palette of neutral colours for the site that are soft with a yellow that offers a distinctive contrast to add a splash off colour. This was to ensure that the site looks professional.
+
+### Fonts
+Google fonts has been imported and “Montserrat” has been used for all the text inside the website with sans-serif selected if a browser does not support the prior font.
+
+### Structure
+The page is structured in a user friendly, easily recognised, simple format. The first time user sees a typical navigation bar at the top of the page, with navigation links to the right. There is a footer at the bottom of the page containing the company name and links to social media sites.
+
+The website consists of 5 separate pages: 
+- A homepage consisting of a picture of females with computers with a text overlay and a button linking to the contact page. An about section giving an overview of STEM Stars. A section giving statistics regards females in STEM and issues with retention/attrition. A section to include 4 cards that each provide at a glance the services that STEM Stars offer. 
+- A Mentor page with two cards showing an example of a female mentor from technology and a mentor from engineering. Each card has a button to a dedicated page which shows the individual mentors summary and bio. An embedded video explaining the benefits of mentors.
+- A technology mentor page showing a picture, summary of the mentor and their bio.
+- An Engineering mentor page showing a picture, summary of the mentor and their bio.
+- A contact page with a contact form to ask for more information regards the service the site provides.
