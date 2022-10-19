@@ -90,3 +90,22 @@ The website consists of 5 separate pages:
 - A technology mentor page showing a picture, summary of the mentor and their bio.
 - An Engineering mentor page showing a picture, summary of the mentor and their bio.
 - A contact page with a contact form to ask for more information regards the service the site provides.
+
+## Wireframes
+
+<details><summary>Home</summary>
+<img src="docs/wireframes/homepage.png">
+</details>
+<details><summary>Mentors</summary>
+<img src="docs/wireframes/mentors.png">
+</details>
+<details><summary>Tech Mentor</summary>
+<img src="docs/wireframes/techmentor.png">
+</details>
+<details><summary>Engineering Mentor</summary>
+<img src="docs/wireframes/engmentor.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/wireframes/contact.png">
+</details>
+
