@@ -109,3 +109,24 @@ The website consists of 5 separate pages:
 <img src="docs/wireframes/contact.png">
 </details>
 
+
+## Technologies Used
+
+### Languages
+
+- HTML 
+- CSS
+
+### Tools
+
+- [GitHub](https://www.github.com) - For an online secure location (site repository) for code and version control
+- [Gitpod](https://www.gitpod.io/) – A cloud based IDE for development, with terminal used to add, commit and push to github 
+- [Balsamiq](https://balsamiq.com/) – To design wireframes 
+- [Bootstrap](https://www.getbootstrap.com/) – For layout responsiveness 
+- [GoogleFonts](https://www.fonts.google.com/) - For Typography 
+- [Colormind](https://www.colormind.io/) – For designing and generating a colour pallet 
+- [Font Awesome](https://www.fontawesome.com/) - For a library of icons 
+- [TinyPNG](https://tinypng.com/) - For image compression
+- Chrome dev tools for debugging and testing responsiveness during development
+
+
