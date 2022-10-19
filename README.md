@@ -25,3 +25,20 @@ The project gives an overview of the services provided by ‘STEM Stars’, exam
 -	To provide information for potential clients about STEM Stars services
 -	To provide a background to potential clients about why STEM Stars exists
 -	To provide a way for potential and returning clients to contact STEM Stars
+
+
+## User Experience
+
+### Target Audience
+-	Schools looking to encourage females into STEM, support, retain and get them through their studies into Higher Education.
+-	Colleges looking to encourage females into STEM, support, retain and get them through their studies into Higher Education.
+-	Universities looking to encourage females into STEM, support, retain them and get them through their studies and into the workplace.
+-	STEM companies looking to support their female staff with mentors to assist with female staff retention and increase company diversity, inclusivity and productivity.
+
+### User Requirements and Expectations
+-	A navigation system that is familiar, simple and intuitive
+-	Content that is provided in clear sections to make it easy to read
+-	All links and functions work appropriately
+-	A site that is responsive and works on a variety of screen sizes
+-	A way to contact the business
+-	A site that provides accessibility
