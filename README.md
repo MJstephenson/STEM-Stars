@@ -9,3 +9,19 @@ Research shows that there are high attrition rates for females through STEM educ
 ‘STEM Stars’ offers Schools, universities and companies access to STEM female mentors from around the globe so that females can be supported through their education with a female role model right through into the workplace. Female retention rates are therefore increased and gender inequality in the workplace reduced, benefiting both female individuals within their chosen career paths and companies aiming to improve their diversity, inclusivity and productivity.
 
 The project gives an overview of the services provided by ‘STEM Stars’, examples of mentors and a contact us form for accessing more information.
+
+
+## Project Goals
+
+### User Goals
+-	Find information about accessing female mentors for school, college or university level to include a company workplace.
+-	Find examples of STEM female mentors provided by STEM Stars
+-	Find the reasons why female mentors are of benefit to females studying or working in STEM
+-	To be able to contact STEM stars for more information
+
+### Site Owner Goals
+-	To gain clients for the business
+-	To promote the business overall
+-	To provide information for potential clients about STEM Stars services
+-	To provide a background to potential clients about why STEM Stars exists
+-	To provide a way for potential and returning clients to contact STEM Stars
