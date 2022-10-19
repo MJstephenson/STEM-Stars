@@ -51,7 +51,7 @@ The project gives an overview of the services provided by ‘STEM Stars’, exam
 2.	As a first time user, I want to know some statistics about females leaving STEM education and STEM roles.
 3.	As a first time user, I want to know what services STEM Stars provide.
 4.	As a first time user, I want to see an example of a mentor.
-5	As a first time user, I want to see a bio of a mentor.
+5.	As a first time user, I want to see a bio of a mentor.
 6.	As a first time user, I want to be able to contact STEM Stars for more information and add a comment.
 
 ### Returning User
@@ -130,3 +130,69 @@ The website consists of 5 separate pages:
 - Chrome dev tools for debugging and testing responsiveness during development
 
 
+## Features
+
+### Logo and Navigation Bar
+ - Features across all five pages
+- The navbar responds fully and includes links to the Homepage, Mentors, and Contact page
+- It allows users to easily navigate around the website
+
+### Footer
+-	Provides external links to social media profiles for STEM Stars
+-	Links open new tabs in windows when clicked
+-	User stories covered: 8
+
+### Homepage
+
+#### Image with Button
+-	Brief explanation of STEM Stars
+-	Button linking to contact page
+-	User stories covered: 1,5
+
+#### About section
+-	Image of women in tech
+-	Text describing what STEM Stars is about
+-	User stories covered: 1,3,10
+
+#### Statistics section
+-	An image of statistics regards female retention in STEM
+-	Text to explain the statistics regards female retention in STEM
+-	User stories covered: 2,11 
+
+#### Services provided section
+-	4 cards, each describing a service provided by STEM Stars
+-	User stories covered: 3,13
+
+### Mentors Page
+
+#### Card 1
+-	An image of a female tech mentor and a short description explaining what they do including a button linking to the tech mentor bio page
+-	User stories covered: 4,12
+
+#### Card 2
+-	An image of a female engineering mentor and a short description explaining what they do including a button linking to the engineering mentor bio page.
+-	User stories covered: 4,12
+
+#### Video
+-	Contains a you-tube video on female mentors
+-	User stories covered: 2
+
+### Tech Mentor Page
+-	Image of Female in tech
+-	Text description of an example of a Tech STEM Star mentor
+-	Contains a card giving a summary of the background of the Tech mentor
+-	Contains a card giving the education of the mentor
+-	User stories covered: 4,12
+
+### Engineering Mentor Page
+-	Image of Female in tech
+-	Text description of an example of a Tech STEM Star mentor
+-	Contains a card giving a summary of the background of the Tech mentor
+-	Contains a card giving the education of the mentor
+-	User stories covered: 4,12
+
+### Contact Page
+-	Text describing that STEM Stars will contact the user when they fill out and submit the form
+-	A contact form is provided so that the user can leave a message for STEM stars that includes input fields for: name, email, contact number and a comment.
+-	The user can select whether they are a new or returning user
+-	User stories covered: 5,7,14
