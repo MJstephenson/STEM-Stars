@@ -42,3 +42,26 @@ The project gives an overview of the services provided by ‘STEM Stars’, exam
 -	A site that is responsive and works on a variety of screen sizes
 -	A way to contact the business
 -	A site that provides accessibility
+
+
+## User Stories
+
+### First-time User 
+1.	As a first time user, I want to know what STEM Stars is about.
+2.	As a first time user, I want to know some statistics about females leaving STEM education and STEM roles.
+3.	As a first time user, I want to know what services STEM Stars provide.
+4.	As a first time user, I want to see an example of a mentor.
+5	As a first time user, I want to see a bio of a mentor.
+6.	As a first time user, I want to be able to contact STEM Stars for more information and add a comment.
+
+### Returning User
+7.	As a returning user, I want to be able to contact or re-contact STEM Stars and add a comment.
+8.	As a returning user, I want to be able to find STEM Stars on social media.
+
+### Site Owner 
+9.	As the site owner, I want users to be able to contact STEM Stars.
+10.	As the site owner, I want users to be able to get an overview of what STEM Stars is about.
+11.	As the site owner I want users to be able to see statistics about 
+12.	As the site owner I want the users to be able to see examples of mentors that they can access including their bios.
+13.	As the site owner I want users to be able to see what services STEM Stars offers.
+14.	As the site owner I want users to be able to contact and re-contact STEM Stars for more information via a form
