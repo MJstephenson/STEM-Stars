@@ -32,4 +32,6 @@
     border-bottom:1px solid #000;
 }
 
-
+.nav-link:hover{
+    color: rgb(158, 13, 13);
+}
