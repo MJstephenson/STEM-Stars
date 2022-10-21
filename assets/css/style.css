@@ -1,7 +1,14 @@
-*{
+* {
     font-family: 'Montserrat', sans-serif;
 }
 
+body, html {
+    height:100%;
+    margin: 0;
+    padding: 0;
+    background: #f1f1f1;
+    font-family: 'Montserrat', sans-serif;
+}
 
 
 /*---------- Navbar styling ----------*/
@@ -23,15 +30,27 @@
 }
 
 .navbar-nav a {
-	font-size: 15px;
-	text-transform: uppercase;
-	font-weight: 500;
-}
-    
-.navbar { 
-    border-bottom:1px solid #000;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 500;
+    color: #48383F;
 }
 
-.nav-link:hover{
+.navbar {
+    border-bottom: 1px solid #000;
+}
+
+.nav-link:hover {
     color: rgb(158, 13, 13);
 }
+
+/*---------- Hero Image ---------*/
+
+.hero-image {
+    background-image: url("/assets/images/hero-image.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
