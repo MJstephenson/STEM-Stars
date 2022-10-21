@@ -10,6 +10,17 @@ body, html {
     font-family: 'Montserrat', sans-serif;
 }
 
+.button {
+    background-color: #efef0d;
+    color:#48383f;
+    border: 1px solid black;
+    text-transform: uppercase;
+    font-weight: 500;
+    }
+    
+.button:hover {
+    background-color: #edebe3;
+}
 
 /*---------- Navbar styling ----------*/
 
@@ -44,6 +55,8 @@ body, html {
     color: rgb(158, 13, 13);
 }
 
+
+
 /*---------- Hero Image ---------*/
 
 .hero-image {
@@ -74,3 +87,4 @@ body, html {
     font-size:30px;
     margin-bottom: 4rem;
   }
+
