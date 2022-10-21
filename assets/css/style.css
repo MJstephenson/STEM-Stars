@@ -64,8 +64,13 @@ body, html {
     color: white;
   }
 
-  
   .hero-text h1 {
     font-size: 100px;
     letter-spacing: 0.1em;
+    padding: 30px;
+  }
+
+  .hero-text p {
+    font-size:30px;
+    margin-bottom: 4rem;
   }
