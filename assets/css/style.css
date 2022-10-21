@@ -63,3 +63,9 @@ body, html {
     transform: translate(-50%, -50%);
     color: white;
   }
+
+  
+  .hero-text h1 {
+    font-size: 100px;
+    letter-spacing: 0.1em;
+  }
