@@ -58,8 +58,8 @@ body, html {
 
 .nav-link:hover {
     color: #efef0d;
+    text-shadow: 2px 2px 8px #000000;
 }
-
 
 
 /*---------- Hero Image ---------*/
