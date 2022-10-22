@@ -35,6 +35,9 @@ body, html {
 .star {
     color: #efef0d;
     font-size: 35px;
+    text-shadow: 2px 2px 8px #000000;
+    letter-spacing: 0.3em;
+    padding-left: 10px;
 }
 
 .star-title {
