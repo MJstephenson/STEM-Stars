@@ -72,6 +72,7 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    border-bottom: 15px solid #000;
 }
 
 .hero-text {
@@ -95,6 +96,13 @@ html {
     margin-bottom: 4rem;
     text-shadow: 2px 2px 8px #000000;
 }
+
+
+/*--------- About section ----------*/
+
+
+/*--------- Statistics section ----------*/
+
 
 
 /*--------- Media Queries ----------*/
