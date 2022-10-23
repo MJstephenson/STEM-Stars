@@ -26,6 +26,11 @@ html {
     color: rgb(158, 13, 13);
 }
 
+h2 {
+    font-weight: 600;
+    letter-spacing: 0.1em;
+}
+
 /*---------- Navbar styling ----------*/
 
 #nav-title-stem {
