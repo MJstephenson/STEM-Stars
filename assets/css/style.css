@@ -103,6 +103,11 @@ html {
 
 /*--------- Statistics section ----------*/
 
+.chart-icon {
+    color: #efef0d;
+    text-shadow: 2px 2px 8px #000000;
+
+}
 
 
 /*--------- Media Queries ----------*/
