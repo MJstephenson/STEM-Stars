@@ -120,6 +120,16 @@ h2 {
 }
 
 
+/*--------- Services section ----------*/
+
+.page-break {
+    background: #000000;
+    height: 15px;
+    width: 100vw;
+    margin-top: 100px;
+    margin-bottom: 60px;
+}
+
 
 /*--------- Media Queries ----------*/
 
