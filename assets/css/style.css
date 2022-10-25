@@ -157,12 +157,7 @@ h2 {
     }
 
     .hero-image {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/assets/images/hero-image.jpg);
         height: 40vh;
-        background-position: center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        position: relative;
     }
 }
 
@@ -180,7 +175,7 @@ h2 {
 
 @media screen and (max-width: 768px) {
     .hero-text h1 {
-        font-size: 70px;
+        font-size: 11vw;
         letter-spacing: 0.1em;
         padding: 30px;
         text-shadow: 2px 2px 8px #000000;
