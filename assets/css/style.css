@@ -36,6 +36,7 @@ h2 {
     letter-spacing: 0.1em;
 }
 
+/*
 .page-break {
     margin-top: 120px;
     margin-bottom: 80px;
@@ -132,7 +133,7 @@ h2 {
 /*--------- Services section ----------*/
 
 .services-icon {
-    color: #efef0d;
+    color:  #efef0d;
     text-shadow: 2px 2px 8px #000000;
 }
 
@@ -145,6 +146,17 @@ h2 {
     
 }
 
+.services-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../images/tree-stars.jpg");
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    border-bottom: 15px solid #000;
+    border-top: 15px solid #000;
+    
+}
 
 /*--------- Media Queries ----------*/
 
