@@ -171,6 +171,7 @@ footer {
     position: relative;
     color: #48383F;
     padding-top: 30px;
+    border-top: 15px solid #000;
 }
 
 .footer-content {
