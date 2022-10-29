@@ -127,9 +127,18 @@ h2 {
 
 /*--------- Services section ----------*/
 
+.services-main {
+    color:#edebe3;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
 .services-icon {
     color:  #efef0d;
     text-shadow: 2px 2px 8px #000000;
+    font-size:150px;
 }
 
 .card-style {
@@ -143,12 +152,11 @@ h2 {
 
 .services-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../images/tree-stars.jpg");
-    height: 100vh;
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    border-bottom: 15px solid #000;
     border-top: 15px solid #000;
     margin-top: 100px;
     
