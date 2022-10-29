@@ -182,6 +182,12 @@ footer {
     text-align: center;
 }
 
+#footer-title {
+    color: #48383F;
+    font-weight: 500;
+    font-size: 2.1rem;
+    letter-spacing: 0.1em;
+
 
 /*--------- Media Queries ----------*/
 
