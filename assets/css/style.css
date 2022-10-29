@@ -162,6 +162,17 @@ h2 {
     
 }
 
+/*--------- Footer----------*/
+
+footer {
+    background: #B5BAC6;
+    height: auto;
+    width: 100vw;
+    position: relative;
+    color: #48383F;
+}
+
+
 /*--------- Media Queries ----------*/
 
 @media (max-width: 450px) {
