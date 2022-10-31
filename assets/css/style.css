@@ -220,7 +220,14 @@ footer {
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.9);
 }
 
+.social-icons li a {
+    color: #48383F;
+}
 
+
+.social-icons li a:hover {
+    color:#000000;
+}
 
 /*--------- Media Queries ----------*/
 
