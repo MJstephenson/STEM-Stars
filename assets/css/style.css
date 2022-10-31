@@ -199,6 +199,13 @@ footer {
     padding-top: 15px;
 }
 
+.social-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
 
 /*--------- Media Queries ----------*/
 
