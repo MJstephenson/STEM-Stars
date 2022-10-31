@@ -206,7 +206,9 @@ footer {
     list-style: none;
 }
 
-
+.social-icons li {
+    margin: 0 130px;
+}
 
 
 /*--------- Media Queries ----------*/
