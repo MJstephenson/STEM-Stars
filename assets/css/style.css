@@ -208,8 +208,13 @@ footer {
 
 .social-icons li {
     margin: 0 130px;
+    font-size: 2rem;
 }
 
+li a {
+    border: 1px;
+    font-size: rem;
+}
 
 /*--------- Media Queries ----------*/
 
