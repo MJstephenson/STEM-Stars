@@ -148,6 +148,7 @@ h2 {
     width: 600px;
     border: #000000 solid;
     border-width: 1px;
+    color: #000000;
     
 }
 
@@ -267,6 +268,9 @@ footer {
         height: 40vh;
     }
 
+    .social-icons {
+        max-width: 100px;
+    }
 }
 
 
