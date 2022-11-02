@@ -210,7 +210,7 @@ footer {
 }
 
 .social-icons li {
-    margin: 40px 130px;
+    margin: 1.8vmin 4vmin;
     font-size: 2rem;
     border: 2px solid #efef0d;
     width: 50px;
@@ -269,10 +269,10 @@ footer {
         height: 40vh;
     }
 
-    .social-icons {
-        max-width: 100px;
     }
-}
+
+    
+
 
 
 @media screen and (max-width: 480px) {
@@ -285,17 +285,11 @@ footer {
     }
 
     .social-icons li {
-        margin: 20px 60px;
-        font-size: 2rem;
-        border: 2px solid #efef0d;
-        width: 50px;
-        height: 50px;
-        border-radius: 50%;
-        text-align: center;
-        line-height: 50px;
-        vertical-align: middle;
-        box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.9);
+        
+        
     }
+
+
 }
 
 @media screen and (max-width: 768px) {
