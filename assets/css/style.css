@@ -109,7 +109,7 @@ h2 {
 }
 
 .hero-text p {
-    font-size: 30px;
+    font-size: 20xp;
     margin-bottom: 4rem;
     text-shadow: 2px 2px 8px #000000;
 }
@@ -176,6 +176,13 @@ h2 {
     position: relative;    
 }
 
+.form-label, .radio-text {
+    color: #edebe3;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+ 
 
 /*--------- Footer----------*/
 
