@@ -43,7 +43,7 @@ p {
 }
 
 h2 {
-    font-weight: 600;
+    font-weight: 400;
     letter-spacing: 0.1em;
 }
 
@@ -196,13 +196,14 @@ h2 {
     font-weight: 500;
 }
 
-.contact-text h2 {
+.contact-text h1 {
     color: #edebe3;
     font-size: 3rem;
     letter-spacing: 0.1em;
     text-shadow: 2px 2px 8px #000000;
     padding-top: 120px;
     text-transform: uppercase;
+    text-align: center;
 }
 
 .contact-text p {
@@ -231,6 +232,18 @@ h2 {
 .form-select:focus {
     border-color: #efef0d;
     box-shadow: none;
+}
+
+/*---------Mentor Page----------*/
+
+.mentor-text h1 {
+    color: #48383F;
+    font-size: 3rem;
+    letter-spacing: 0.1em;
+    text-shadow: 2px 2px 8px #000000;
+    padding-top: 120px;
+    text-transform: uppercase;
+    text-align: center;
 }
 
 
