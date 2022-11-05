@@ -109,7 +109,7 @@ h2 {
 }
 
 .hero-text p {
-    font-size: 20xp;
+    font-size: 20px;
     margin-bottom: 4rem;
     text-shadow: 2px 2px 8px #000000;
 }
@@ -180,6 +180,20 @@ h2 {
     color: #edebe3;
     font-size: 1.2rem;
     font-weight: 500;
+}
+
+.contact-text h2 {
+    color: #edebe3;
+    font-size: 3rem;
+    letter-spacing: 0.1em;
+    text-shadow: 2px 2px 8px #000000;
+}
+
+.contact-text p {
+    color: #edebe3;
+    font-size: 1.25rem;
+    letter-spacing: 0.1em;
+    text-shadow: 2px 2px 8px #000000;
 }
 
  
