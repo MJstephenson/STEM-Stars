@@ -217,6 +217,18 @@ h2 {
     border: solid 3px #000000;
 }
  
+.form-control:focus {
+    border-color: #efef0d;
+    box-shadow: none;
+    -webkit-box-shadow: #edebe3;
+} 
+
+.form-select:focus {
+    border-color: #efef0d;
+    box-shadow: none;
+    -webkit-box-shadow: #edebe3;
+}
+
 
 /*--------- Footer----------*/
 
