@@ -13,6 +13,10 @@ html {
     overflow-x: hidden;
 }
 
+p {
+    text-align: center;
+}
+
 #page-container {
     position: relative;
     min-height: 100vh;
@@ -334,6 +338,7 @@ footer {
 
     .hero-image {
         height: 40vh;
+        margin-bottom: 0 important!;
     }
 
     .services-main {
