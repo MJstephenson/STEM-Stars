@@ -270,6 +270,7 @@ h2 {
 .mentor-card {
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.9);
     margin-bottom: 100px;
+    border: solid 2px #000000;
 }
 
 .card-img-top {
