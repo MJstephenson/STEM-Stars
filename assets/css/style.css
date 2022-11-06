@@ -476,10 +476,18 @@ footer {
         font-size: 0.7rem;
     }
 
-    #body-star {
-        font-size: medium;
+    .about-text h2 {
+        font-size: 1.6rem;
+        font-weight: 500;
+        margin-top: 20px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 
+    .statistics-text h2 {
+        font-size: 1.6rem;
+        font-weight: 500;
+    }
 }
 
     
@@ -487,7 +495,6 @@ footer {
     .star {
         font-size: 0.9rem;
     }
-
 }
 
 @media screen and (max-width: 600px) {
