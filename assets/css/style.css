@@ -259,6 +259,8 @@ h2 {
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    border-bottom: 15px solid #000;
+
 }
 
 .card {
