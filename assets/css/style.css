@@ -127,6 +127,10 @@ h2 {
 
 /*--------- About section ----------*/
 
+.about-padding {
+    padding: 40px;
+}
+
 
 /*--------- Statistics section ----------*/
 
@@ -424,9 +428,17 @@ footer {
         margin-bottom: 0;
     }
 
+    .about-padding {
+        padding: 0px;
+    }
+
     .services-main {
         font-size: 2.2rem;
         margin-top: 0px;
+    }
+
+    .statistics-text {
+        padding-top: 30px;
     }
 
     /*-----mentor page media queries----*/
