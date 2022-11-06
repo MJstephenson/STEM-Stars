@@ -38,8 +38,8 @@ p {
 }
 
 .button:hover {
-    background-color: #edebe3;
-    color: rgb(158, 13, 13);
+    background-color: #000000;
+    color: #efef0d;
 }
 
 h2 {
@@ -479,6 +479,5 @@ footer {
 @media screen and (max-width: 768px) {
     .hero-text h1 {
         font-size: 11vw;
-       
     }
 }
