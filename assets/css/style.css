@@ -260,7 +260,6 @@ h2 {
     background-size: cover;
     position: relative;
     border-bottom: 15px solid #000;
-
 }
 
 .card {
@@ -274,8 +273,17 @@ h2 {
     height: 40vw;
     width: 100%;
 }
-.card-body{
+.card-body {
     flex-grow:0;
+}
+
+.video-text h2 {
+    
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-size: 3rem;
+    margin-top: 60px;
+    margin-bottom: 100px;
 }
 
 .iframe-container {
@@ -286,6 +294,7 @@ h2 {
     margin-top: 60px;
     margin-bottom: 100px;
 }
+
 .iframe-container iframe {
     position: absolute;
     top: 0;
