@@ -392,35 +392,23 @@ footer {
 
 @media (max-width: 450px) {
     .star {
-        color: #efef0d;
-        font-size: 5px;
-        text-shadow: 2px 2px 8px #000000;
-        letter-spacing: 0.3em;
-        padding-left: 10px;
+        font-size: 0.3rem;
     }
 
     #nav-title-stem {
-        color: #48383F;
-        font-weight: 500;
-        font-size: 20px;
+        font-size: 1.25rem;
     }
 
     .star-title {
-        font-weight: 300;
-        font-size: 18px;
+        font-size: 1.15rem;
     }
 
     .hero-text h1 {
-        font-size: 20px;
-        letter-spacing: 0.1em;
-        padding: 30px;
-        text-shadow: 2px 2px 8px #000000;
+        font-size: 1.25rem;
     }
 
     .hero-text p {
-        font-size: 16px;
-        margin-bottom: 4rem;
-        text-shadow: 2px 2px 8px #000000;
+        font-size: 1rem;
     }
 
     .hero-image {
@@ -438,7 +426,7 @@ footer {
     }
 
     .statistics-text {
-        padding-top: 30px;
+        padding-top: 70px;
     }
 
     /*-----mentor page media queries----*/
@@ -475,18 +463,10 @@ footer {
 }
 
     
-
-
-
 @media screen and (max-width: 480px) {
     .star {
-        color: #efef0d;
-        font-size: 15px;
-        text-shadow: 2px 2px 8px #000000;
-        letter-spacing: 0.3em;
-        padding-left: 10px;
+        font-size: 0.9rem;
     }
-
 }
 
 @media screen and (max-width: 600px) {
@@ -499,8 +479,6 @@ footer {
 @media screen and (max-width: 768px) {
     .hero-text h1 {
         font-size: 11vw;
-        letter-spacing: 0.1em;
-        padding: 30px;
-        text-shadow: 2px 2px 8px #000000;
+       
     }
 }
