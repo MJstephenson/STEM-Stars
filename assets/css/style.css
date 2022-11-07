@@ -79,7 +79,7 @@ h2 {
 }
 
 .navbar-nav a {
-    font-size: 0.9rem;
+    font-size: 1.2rem;
     text-transform: uppercase;
     font-weight: 500;
     color: #48383F;
@@ -95,6 +95,10 @@ h2 {
     text-shadow: 2px 2px 8px #000000;
 }
 
+.nav-icon {
+    font-size: 1.8rem;
+    
+}
 
 /*---------- Hero Image ---------*/
 
@@ -107,7 +111,6 @@ h2 {
     position: relative;
     border-bottom: 15px solid #000;
 }
-
 
 .hero-text {
     text-align: center;
