@@ -444,6 +444,17 @@ footer {
         padding-top: 70px;
     }
 
+    .about-text h3 {
+        font-size: 1.2rem;
+    }
+
+    .about-text p {
+        font-size: 1rem;
+    }
+
+    .statistics-text h3 {
+        font-size: 1rem;
+    }
     /*-----mentor page media queries----*/
 
     .mentor-image, .form-card {
