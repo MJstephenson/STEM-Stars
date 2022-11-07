@@ -505,7 +505,7 @@ footer {
 }
 
     
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 480px) { /*---- To keep hamburger menu on right of smaller screens ----*/
     .star {
         font-size: 0.9rem;
     }
