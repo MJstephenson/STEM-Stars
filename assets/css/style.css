@@ -340,6 +340,15 @@ h2 {
 
 /*--------- engineering mentor page ------------------*/
 
+.eng-bkgr-img {
+    background-image: url("../images/eng-bkgr.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;    
+}
+
 #stack-img {
     position: relative;
     margin-left: 20px;
