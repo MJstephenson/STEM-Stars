@@ -532,6 +532,10 @@ footer {
     border:1px solid #000000;
 }
 
+#eng-top-img {
+    border: 2px solid #efef0d;
+}
+
 
     
 @media screen and (max-width: 480px) { /*---- To keep hamburger menu on right of smaller screens ----*/
