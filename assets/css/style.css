@@ -346,7 +346,8 @@ h2 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;    
+    position: relative;
+    border-bottom: 15px solid #000;
 }
 
 #stack-img {
@@ -534,6 +535,7 @@ footer {
 
 #eng-top-img {
     border: 2px solid #efef0d;
+
 }
 
 
