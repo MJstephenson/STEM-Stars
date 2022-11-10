@@ -344,9 +344,12 @@ h2 {
     position: relative;
     margin-left: 20px;
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.9);
-
-
 }
+
+.eng-card-title {
+    text-decoration: underline;
+}
+
 
 /*--------- Footer----------*/
 
@@ -513,6 +516,7 @@ footer {
         font-weight: 500;
     }
 }
+
 
     
 @media screen and (max-width: 480px) { /*---- To keep hamburger menu on right of smaller screens ----*/
