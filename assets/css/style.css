@@ -359,6 +359,15 @@ h2 {
     text-decoration: underline;
 }
 
+.card-img-ment {
+    flex-grow: 1;
+    object-fit:contain;
+    height: 40vw;
+    width: 100%;
+}
+.card-body-ment {
+    flex-grow:0;
+}
 
 /*--------- Footer----------*/
 
