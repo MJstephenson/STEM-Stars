@@ -9,7 +9,7 @@ html {
     padding: 0;
     background: #f1f1f1;
     font-family: 'Montserrat', sans-serif;
-    color:#48383F;
+    color: #48383F;
     overflow-x: hidden;
 }
 
@@ -20,8 +20,8 @@ p {
 #page-container {
     position: relative;
     min-height: 100vh;
-  }
-  
+}
+
 
 .image-shadow {
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.9);
@@ -97,7 +97,7 @@ h2 {
 
 .nav-icon {
     font-size: 1.8rem;
-    
+
 }
 
 /*---------- Hero Image ---------*/
@@ -158,10 +158,11 @@ h2 {
     font-size: 3rem;
     font-weight: 500;
 }
+
 /*--------- Services section ----------*/
 
 .services-main {
-    color:#edebe3;
+    color: #edebe3;
     font-family: 'Montserrat', sans-serif;
     font-size: 3.7rem;
     margin-top: 60px;
@@ -170,7 +171,7 @@ h2 {
 }
 
 .services-icon {
-    color:  #efef0d;
+    color: #efef0d;
     text-shadow: 2px 2px 8px #000000;
     font-size: 6rem;
 }
@@ -194,7 +195,7 @@ h2 {
     position: relative;
     border-top: 15px solid #000;
     margin-top: 100px;
-    
+
 }
 
 /* ---------Contact Page ----------*/
@@ -205,14 +206,15 @@ h2 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    position: relative;    
+    position: relative;
 }
 
 .contact-container {
     padding-bottom: 20px;
 }
 
-.form-label, .radio-text {
+.form-label,
+.radio-text {
     color: #edebe3;
     font-size: 1.2rem;
     font-weight: 500;
@@ -242,14 +244,15 @@ h2 {
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.9);
 }
 
-.form-control, .form-select {
+.form-control,
+.form-select {
     border: solid 3px #000000;
 }
- 
+
 .form-control:focus {
     border-color: #efef0d;
     box-shadow: none;
-} 
+}
 
 .form-select:focus {
     border-color: #efef0d;
@@ -259,7 +262,7 @@ h2 {
 /*---------Mentor Page----------*/
 
 .mentor-text h1 {
-    color:#ffffff;
+    color: #ffffff;
     font-size: 3rem;
     letter-spacing: 0.1em;
     text-shadow: 2px 2px 8px #000000;
@@ -271,7 +274,7 @@ h2 {
 
 .mentor-text p {
     padding-bottom: 60px;
-    color:#edebe3;
+    color: #edebe3;
 }
 
 .mentor-image {
@@ -284,13 +287,14 @@ h2 {
     border-bottom: 15px solid #000;
 }
 
-.mentor-image, .form-card {
+.mentor-image,
+.form-card {
     padding-top: 100px;
     margin-bottom: 100px;
 }
 
 .mentor-card {
-    
+
     margin-bottom: 100px;
     border: solid 2px #000000;
 }
@@ -298,18 +302,20 @@ h2 {
 .mentor-card .card-title {
     text-transform: uppercase;
 }
+
 .card-img-top {
     flex-grow: 1;
-    object-fit:contain;
+    object-fit: contain;
     height: 40vw;
     width: 100%;
 }
+
 .card-body {
-    flex-grow:0;
+    flex-grow: 0;
 }
 
 .video-text h2 {
-    
+
     text-transform: uppercase;
     letter-spacing: 0.1em;
     font-size: 3rem;
@@ -355,12 +361,13 @@ h2 {
 
 .card-img-ment {
     flex-grow: 1;
-    object-fit:contain;
+    object-fit: contain;
     height: 40vw;
     width: 100%;
 }
+
 .card-body-ment {
-    flex-grow:0;
+    flex-grow: 0;
 }
 
 /*--tech mentor page --*/
@@ -386,11 +393,11 @@ footer {
     border-top: 15px solid #000;
     border-bottom: 15px solid #000;
     margin: 0;
-    bottom:0
+    bottom: 0
 }
 
 .footer-content {
-    display: flex; 
+    display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -405,12 +412,12 @@ footer {
 
 
 .footer-star-text {
-    font-weight:200;
+    font-weight: 200;
 }
 
 #design-by {
     font-size: 1rem;
-  
+
 }
 
 .social-icons {
@@ -418,7 +425,7 @@ footer {
     align-items: center;
     justify-content: center;
     list-style: none;
-    padding:0;
+    padding: 0;
 }
 
 .social-icons li {
@@ -440,7 +447,7 @@ footer {
 }
 
 .social-icons li a:hover {
-    color:#000000;
+    color: #000000;
 }
 
 /*--------- Media Queries ----------*/
@@ -495,9 +502,11 @@ footer {
     .statistics-text h3 {
         font-size: 1rem;
     }
+
     /*-----mentor page media queries----*/
 
-    .mentor-image, .form-card {
+    .mentor-image,
+    .form-card {
         padding-top: 30px;
     }
 
@@ -544,7 +553,7 @@ footer {
 /*--- mentor enducation cards ------*/
 
 .ed-card {
-    border:1px solid #000000;
+    border: 1px solid #000000;
 }
 
 #eng-top-img {
@@ -553,15 +562,19 @@ footer {
 }
 
 
-    
-@media screen and (max-width: 480px) { /*---- To keep hamburger menu on right of smaller screens ----*/
+
+@media screen and (max-width: 480px) {
+
+    /*---- To keep hamburger menu on right of smaller screens ----*/
     .star {
         font-size: 0.9rem;
     }
 }
 
 @media screen and (max-width: 600px) {
-    .mentor-image, .form-card {
+
+    .mentor-image,
+    .form-card {
         padding-left: 20px;
         padding-right: 20px;
     }
