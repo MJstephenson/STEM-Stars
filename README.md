@@ -311,3 +311,31 @@ The website consists of 5 separate pages:
 -	User stories covered: 9,10,17
 
 ![contact_title_text](docs/features/contactform.png)
+
+
+## Validation
+
+### HTML Validation
+The W3C Markup Validation Service was used to validate the HTML of the website. All of the pages passed with no errors and no warnings to show.
+<details><summary>Home</summary>
+<img src="docs/validation/home.png">
+</details>
+<details><summary>Mentors</summary>
+<img src="docs/validation/home.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/veri-contact.png">
+</details>
+<details><summary>Tech Mentor</summary>
+<img src="docs/validation/veri-tech-mentor.png">
+</details>
+<details><summary>Engineering Mentor</summary>
+<img src="docs/validation/veri-eng-mentor.png">
+</details>
+
+### CSS Validation
+The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
+When validating custom CSS it passes with no errors found
+<details><summary>Style.css</summary>
+<img src="docs/validation/veri-css.png">
+</details>
