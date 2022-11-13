@@ -341,6 +341,29 @@ When validating custom CSS it passes with no errors found
 <img src="docs/validation/veri-css.png">
 </details>
 
+### Accessibility
+The WAVE WebAIM web accessibility evaluation tool was used to ensure the website met high accessibility standards.
+Upon testing the homepage errors were found in the social media links in the footer. The links contain no text and the function or purpose of the link will not be presented to the user. This can introduce confusion for keyboard and screen reader users and is highlighted by the red link icons.
+This was fixed by adding `<span class="sr-only">facebook</span>` to each icon link in the footer code.
+
+<img src="docs/accessibility/errors.png">
+
+All pages now pass with 0 errors.
+<details><summary>Home</summary>
+<img src="docs/accessibility/access-home.png">
+</details>
+<details><summary>Mentors</summary>
+<img src="docs/accessibility/access-mentors.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/accessibility/access-contact.png">
+</details>
+<details><summary>Tech Mentor</summary>
+<img src="docs/accessibility/access-tech.png">
+</details>
+<details><summary>Eng Mentor</summary>
+<img src="docs/accessibility/access-eng.png">
+</details>
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
