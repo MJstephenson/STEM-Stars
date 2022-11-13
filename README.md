@@ -69,7 +69,7 @@ The project gives an overview of the services provided by ‘STEM Stars’, exam
 12.	As the site owner, I want users to be able to contact STEM Stars.
 13.	As the site owner, I want users to be able to get an overview of what STEM Stars is about.
 14.	As the site owner I want users to be able to see statistics about females in STEM
-15.	As the site owner I want the users to be able to see examples of mentors that they can access including their bios.
+15.	As the site owner I want the users to be able to see examples of mentors that they can access and information about them.
 16.	As the site owner I want users to be able to see what services STEM Stars offers.
 17.	As the site owner I want users to be able to contact and re-contact STEM Stars for more information via a form
 
@@ -367,152 +367,189 @@ All pages now pass with 0 errors.
 <img src="docs/accessibility/access-eng.png">
 </details>
 
+
 ### Testing user stories
 
 1. As a first time user, I want to know what STEM Stars is about.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About section | Scroll down on home page to about section | shows the about section | Works as expected |
+| Hero Image on homepage | open landing page | details shown about stemstars | Works as expected |
+| About section on homepage | Scroll down on home page to about section | shows the about section | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-1.png">
+<img src="">
 </details>
 
-2. I want to know some statistics about females leaving STEM education and STEM roles.
+2. As a first time user I want to know some statistics about females leaving STEM education and STEM roles.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Statistics section | Scroll down on home page to about section | shows the statistics section| Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-2.png">
+<img src="">
 </details>
 
-3. As a first time user, I want to know more about the barber shop
+3. As a first time user, I want to know what services STEM Stars provide.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Bussines introduction on home page | On home page | Find description of the restaurant | Works as expected |
-| About page | Navigate to the About page | Read description | Works as expected | 
+| Services section | Scroll down on home page | Find 4 cards showing the services offered| Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-3v1.png">
-<img src="docs/user-story-testing/user-story-3v2.png">
+<img src="">
 </details>
 
-4. As a first time user, I want to get a feel of what to expect at the barber shop
+4. As a first time user, I want to see an example of a mentor.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Gallery | Navigate to the Gallery page | Find pictures of the happy customers and their reviews | Works as expected |
-| Bussines introduction on home page | On home page | Watch image from inside the shop | Works as expected |
+| Mentor card| Navigate to the mentor page | find a card showing a mentor | Works as expected |
+| Tech mentor example | Navigate to the tech mentor page | shows information on tech mentor | Works as expected |
+| Engineer mentor example | On engineer mentor page | shows information on tech mentor | Works as expected |
+
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-4v1.png">
-<img src="docs/user-story-testing/user-story-4v2.png">
+<img src="">
+<img src="">
 </details>
 
-5. As a returning user, I want to see examples of haircuts
+5. As a first time user, I want to see a bio of a mentor.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Gallery Page | Navigate to the Gallery page |  Find pictures of haircuts | Works as expected |
+| Tech mentor page | Navigate to the tech mentor page | find the bio card | Works as expected |
+| Engineering mentor page | Navigate to the engineering mentor page | find the bio card | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-5.png">
+<img src="">
 </details>
 
-6. As a returnign user, I want to know the opening times
+6. As a first time user, I want to see the education of the mentor.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Opening hours and Services | Scroll down on home page, locate Opening hours | See opening times | Works as expected |
+| Tech mentor page | Navigate to the tech mentor page | find the education card | Works as expected |
+| Engineering mentor page | Navigate to the engineering mentor page | find the education card | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-6.png">
+<img src="">
 </details>
 
-7. As a returning user, I want to find a phone number to call for reservation
+7. As a first time user, I want to see the certificates the mentor holds.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Page | Navigate to contact page | See phone number | Works as expected |
+| Tech mentor page | Navigate to the tech mentor page | find the certificate card | Works as expected |
+| Engineering mentor page | Navigate to the engineering mentor page | find the certificate card | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-7.png">
+<img src="">
 </details>
 
-8. As a returning user, I want to see other customers reviews
+8. As a first time user, I want to be able so see when the mentors are available
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Gallery Page | Navigate to the Gallery page | Read reviews | Works as expected |
+| Tech mentor page | Navigate to the tech mentor page | find the timetable | Works as expected |
+| Engineering mentor page | Navigate to the engineering mentor page | find the timetable | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-8.png">
+<img src="">
 </details>
 
-9. As a returning user, I want to leave some comment, suggestion or message to the staff
+9. As a first time user, I want to be able to contact STEM Stars for more information and add a comment.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Form | Navigate to the Contact Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+| Contact Form| Navigate to the Contact Page and, fill out and submit contact form | Data submited via contact form | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-9.png">
+<img src="">
 </details>
 
-10. As a returning user, I want to find the Barber shop on social media
+10. As a returning user, I want to be able to contact or re-contact STEM Stars and add a comment.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Footer | On any page scroll to the bottom | Click on social media links | Works as expected | 
+| Contact Form| Navigate to the Contact Page , fill out click returning user buttonand submit contact form | Data submited via contact form | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-10.png">
+<img src="">
 </details>
 
-11. As a returning user, I want to get directions to the Barber shop
+11. As a returning user, I want to be able to find STEM Stars on social media.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Address and Google map | On Home page, locate the map and click on directions link | See directions to the restaurant on Goole Maps | Works as expected |
+| footer | On any page click the social icons | opens a new social media page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-1.png">
+<img src="">
 </details>
 
-12. As the site owner, I want users to know what products we use
+12. As the site owner, I want users to be able to contact STEM Stars.
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form| Navigate to the Contact Page and, fill out and submit contact form | Data submited via contact form | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+13.	As the site owner, I want users to be able to get an overview of what STEM Stars is about.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| About page | Navigate to the About page, locate images with products used | See products used | Works as expected |
+| Hero Image on homepage | open landing page | details shown about stemstars | Works as expected |
+| About section on homepage | Scroll down on home page to about section | shows the about section | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-12.png">
+<img src="">
+
 </details>
 
-13. As the site owner, I want users to get to know the Barber shop
+14.	As the site owner I want users to be able to see statistics about females in STEM
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Bussines introduction on home page | On home page | Find description of the restaurant | Works as expected |
-| About page | Navigate to the About page | Read description | Works as expected | 
+| Statistics section | Scroll down on home page to about section | shows the statistics section| Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-3v1.png">
-<img src="docs/user-story-testing/user-story-3v2.png">
+<img src="">
 </details>
 
-14. As the site owner, I want the users to be able to contact us
+15.	As the site owner I want the users to be able to see examples of mentors that they can access and information about them.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Contact Form | Navigate to the Contact Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+| Mentor card| Navigate to the mentor page | find a card showing a mentor | Works as expected |
+| Tech mentor example | Navigate to the tech mentor page | shows information on tech mentor | Works as expected |
+| Engineer mentor example | On engineer mentor page | shows information on tech mentor | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-story-testing/user-story-9.png">
+<img src="">
+</details>
+
+16.	As the site owner I want users to be able to see what services STEM Stars offers.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Services section | Scroll down on home page | Find 4 cards showing the services offered| Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="">
+</details>
+
+17.	As the site owner I want users to be able to contact and re-contact STEM Stars for more information via a form
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form| Navigate to the Contact Page , fill out click new/returning user button and submit contact form | Data submited via contact form | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="">
 </details>
 
 
