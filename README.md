@@ -132,8 +132,10 @@ The website consists of 5 separate pages:
 - [Bootstrap](https://www.getbootstrap.com/) – For layout responsiveness 
 - [GoogleFonts](https://www.fonts.google.com/) - For Typography 
 - [Colormind](https://www.colormind.io/) – For designing and generating a colour pallet 
-- [Font Awesome](https://www.fontawesome.com/) - For a library of icons 
+- [Font_Awesome](https://www.fontawesome.com/) - For a library of icons 
 - [TinyPNG](https://tinypng.com/) - For image compression
+- [Cloud_convert] (https://cloudconvert.com/) - for png and jpeg to WEBP conversion
+- [Apose] (https://products.aspose.app/imaging/image-compress/webp) for WEBP compression
 - Chrome dev tools for debugging and testing responsiveness during development
 
 
@@ -364,6 +366,155 @@ All pages now pass with 0 errors.
 <details><summary>Eng Mentor</summary>
 <img src="docs/accessibility/access-eng.png">
 </details>
+
+### Testing user stories
+
+1. As a first time user, I want to know what STEM Stars is about.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About section | Scroll down on home page to about section | shows the about section | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1.png">
+</details>
+
+2. I want to know some statistics about females leaving STEM education and STEM roles.
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Statistics section | Scroll down on home page to about section | shows the statistics section| Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-2.png">
+</details>
+
+3. As a first time user, I want to know more about the barber shop
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Bussines introduction on home page | On home page | Find description of the restaurant | Works as expected |
+| About page | Navigate to the About page | Read description | Works as expected | 
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-3v1.png">
+<img src="docs/user-story-testing/user-story-3v2.png">
+</details>
+
+4. As a first time user, I want to get a feel of what to expect at the barber shop
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery | Navigate to the Gallery page | Find pictures of the happy customers and their reviews | Works as expected |
+| Bussines introduction on home page | On home page | Watch image from inside the shop | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-4v1.png">
+<img src="docs/user-story-testing/user-story-4v2.png">
+</details>
+
+5. As a returning user, I want to see examples of haircuts
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery Page | Navigate to the Gallery page |  Find pictures of haircuts | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-5.png">
+</details>
+
+6. As a returnign user, I want to know the opening times
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Opening hours and Services | Scroll down on home page, locate Opening hours | See opening times | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-6.png">
+</details>
+
+7. As a returning user, I want to find a phone number to call for reservation
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Page | Navigate to contact page | See phone number | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-7.png">
+</details>
+
+8. As a returning user, I want to see other customers reviews
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Gallery Page | Navigate to the Gallery page | Read reviews | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-8.png">
+</details>
+
+9. As a returning user, I want to leave some comment, suggestion or message to the staff
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-9.png">
+</details>
+
+10. As a returning user, I want to find the Barber shop on social media
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Footer | On any page scroll to the bottom | Click on social media links | Works as expected | 
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-10.png">
+</details>
+
+11. As a returning user, I want to get directions to the Barber shop
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Address and Google map | On Home page, locate the map and click on directions link | See directions to the restaurant on Goole Maps | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-1.png">
+</details>
+
+12. As the site owner, I want users to know what products we use
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| About page | Navigate to the About page, locate images with products used | See products used | Works as expected |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-12.png">
+</details>
+
+13. As the site owner, I want users to get to know the Barber shop
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Bussines introduction on home page | On home page | Find description of the restaurant | Works as expected |
+| About page | Navigate to the About page | Read description | Works as expected | 
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-3v1.png">
+<img src="docs/user-story-testing/user-story-3v2.png">
+</details>
+
+14. As the site owner, I want the users to be able to contact us
+
+| **Feature** | **Action** | **Expected Result** | **Actual Result** |
+|-------------|------------|---------------------|-------------------|
+| Contact Form | Navigate to the Contact Page and locate the contact form, fill out and submit contact form | Data submited via contact form | Works as expectd |
+
+<details><summary>Screenshots</summary>
+<img src="docs/user-story-testing/user-story-9.png">
+</details>
+
 
 ## Deployment
 The website was deployed using GitHub Pages by following these steps:
