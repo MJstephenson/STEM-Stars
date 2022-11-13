@@ -225,7 +225,7 @@ The website consists of 5 separate pages:
 -	Image of Female Tech mentor
 -   User stories covered: 4
 
-![eng_mentor_card](docs/features/techmentorcard.png)
+![tech_mentor_card](docs/features/techmentorcard.png)
 
 #### Bio of Tech Mentor
 -	Text description of a bio for the example of a Tech STEMStar mentor
@@ -260,27 +260,46 @@ The website consists of 5 separate pages:
 ### Engineering Mentor Page
 
 #### image and Engineering Mentor About Section
-- A technology related image of a laptop
-- A title and subtitle with text explaining how STEMstars provides tech mentors
+-   A technology related image of a laptop
+-   A title and subtitle with text explaining how STEMstars provides engineering mentors
+-   User stories covered: 3,13,16
+
+![About_Engineering_Mentor](docs/features/abouteng.png)
 
 #### Mentor Card
 -	Image of Female Engineering mentor
+-   User stories covered: 4
 
-#### Bio of Tech Mentor
--	Text description of a bio for the example of a Tech STEMStar mentor
+![Enineering_Mentor_card](docs/features/engmentorcard.png)
+
+#### Bio of Engineering Mentor
+-	Text description of a bio for the example of a Engineering STEMStar mentor
+-   User stories covered: 4
+
+![Engineering_bio](docs/features/engbio.png)
 
 #### Education Card
 -	Contains a card giving the education of the mentor
+-   User stories covered: 6
+
+![Engineering_education](docs/features/engedu.png)
 
 #### Certification Card
-- Contains a card showing the certicates the mentor holds
+-   Contains a card showing the certicates the mentor holds
+-   User stories covered: 7
+
+![Engineering_certification](docs/features/engcerts.png)
 
 #### Availability Timetable
--   Added a table showing availability as an addition to the wireframes
+-   Added a table showing availability as an addition to the wireframes - see tech mentor page
 -	User stories covered: 4,12
 
+### Back to top Button
+-   A button that takes you back to the top of the page so the user can access the navbar quickly - see tech mentor page
+
+
 ### Contact Page
--	Text describing that STEM Stars will contact the user when they fill out and submit the form
+-	Text asking the user to fill out the form to make an enquiry
 -	A contact form is provided so that the user can leave a message for STEM stars that includes input fields for: name, email, contact number and a comment.
 -	The user can select whether they are a new or returning user
 -	User stories covered: 5,7,14
