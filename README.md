@@ -1,5 +1,9 @@
 # STEM Stars
 
+[Live webpage](https://mjstephenson.github.io/STEM-Stars/)
+
+![Mockup image](docs/readme/am-i-responsive.png)
+
 ## Project Overview
 
 ‘STEM Stars’ provide female mentor’s to female school, college and university students studying STEM (Science, Technology, Engineering, Mathematics) and females employed directly in a STEM role. 
@@ -76,7 +80,7 @@ The site will be visited by professionals from schools, colleges, universities a
 Color mind was used to generate a palette of neutral colours for the site that are soft with a yellow that offers a distinctive contrast to add a splash off colour. This was to ensure that the site looks professional.
 <br>
 
-![Colour scheme](docs/features/colormind.png)
+![Colour scheme](docs/readme/colormind.png)
 
 ### Fonts
 Google fonts has been imported and “Montserrat” has been used for all the text inside the website with sans-serif selected if a browser does not support the prior font.
@@ -133,14 +137,20 @@ The website consists of 5 separate pages:
 ## Features
 
 ### Logo and Navigation Bar
- - Features across all five pages
+
+- Features across all five pages
 - The navbar responds fully and includes links to the Homepage, Mentors, and Contact page
 - It allows users to easily navigate around the website
+- The language icon and text size icon are included for accessibility and would be implemented if the site were to be developed further and so currently are inactive
+
+![Navbar](docs/features/navbar.png)
 
 ### Footer
 -	Provides external links to social media profiles for STEM Stars
 -	Links open new tabs in windows when clicked
 -	User stories covered: 8
+
+![Footer](docs/features/footer.png)
 
 ### Homepage
 
@@ -149,19 +159,28 @@ The website consists of 5 separate pages:
 -	Button linking to contact page
 -	User stories covered: 1,5
 
+![hero](docs/features/herobutton.png)
+
 #### About section
 -	Image of women in tech
 -	Text describing what STEM Stars is about
 -	User stories covered: 1,3,10
+
+![About](docs/features/about.png)
 
 #### Statistics section
 -	An image of statistics regards female retention in STEM
 -	Text to explain the statistics regards female retention in STEM
 -	User stories covered: 2,11 
 
+![statistics](docs/features/statistics.png)
+
 #### Services provided section
 -	4 cards, each describing a service provided by STEM Stars
 -	User stories covered: 3,13
+
+![statistics](docs/features/services.png)
+
 
 ### Mentors Page
 
