@@ -490,6 +490,7 @@ All pages now pass with 0 errors.
 </details>
 
 12. As the site owner, I want users to be able to contact STEM Stars.
+
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Contact Form| Navigate to the Contact Page and, fill out and submit contact form | Data submited via contact form | Works as expected |
@@ -572,3 +573,19 @@ You can clone the repository by following these steps:
 5. Change the current working directory to the one where you want the cloned directory
 6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
 7. Press Enter to create your local clone.
+
+
+## Credits
+
+All images are taken from <a href= "https://unsplash.com/">unsplash.com</a>  posted by <a href ="https://unsplash.com/@andyjh07">Andy Holmes</a>, <a href ="https://unsplash.com/@krisroller">Kriss Roller</a>, <a href ="https://unsplash.com/@ryan_hutton_">ryan hutton</a>, <a href ="https://unsplash.com/@ryan_hutton">ryan hutton</a>, <a href ="https://unsplash.com/@joelfilip">Joel Filipe</a>, <a href ="https://unsplash.com/@wocintechchat">christina</a>, <a href ="https://unsplash.com/@pixel_goods">Ally Griffin</a>, <a href ="https://unsplash.com/@cowomen">CoWomen</a>, <a href ="https://unsplash.com/@silvawebdesigns">Nathan da Silva</a> and <a href ="https://unsplash.com/@rgaleriacom">Ricardo Gomez Angel</a> 
+
+with the exception of the statistics image which was taken from <a href= "https://www.pwc.co.uk/who-we-are/women-in-technology/time-to-close-the-gender-gap.html">pwc.com</a>
+
+The you-tube video was sourced from <a href= "https://www.youtube.com/watch?v=dUYJvtAg8aU">you-tube.com</a>
+
+## Acknowledgements
+I would like to take the opportunity to thank:
+- My mentor Tim for his feedback, advice, guidance and support.
+- Tutoring from Josh at the code institute for guiding me through issues with page overflow and grid layouts
+- Myself for putting all the time in to get this project done through all the late nights after work and weekends.
+- My wife and little boy for listening to me talk about coding non-stop
