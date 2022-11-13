@@ -225,25 +225,25 @@ The website consists of 5 separate pages:
 -	Image of Female Tech mentor
 -   User stories covered: 4
 
-![eng_mentor_card](docs/features/engmentorcard.png)
+![eng_mentor_card](docs/features/techmentorcard.png)
 
 #### Bio of Tech Mentor
 -	Text description of a bio for the example of a Tech STEMStar mentor
 -   User stories covered: 4
 
-![bio](docs/features/engbio.png)
+![bio](docs/features/techbio.png)
 
 #### Education Card
 -	Contains a card giving the education of the mentor
 -   User stories covered: 6
 
-![bio](docs/features/engeducation.png)
+![bio](docs/features/techeducation.png)
 
 #### Certification Card
 -   Contains a card showing the certicates the mentor holds
 -   User stories covered: 7
 
-![certifications](docs/features/engcerts.png)
+![certifications](docs/features/techcerts.png)
 
 #### Availability Timetable
 -   Added a table showing availability as an addition to the wireframes
