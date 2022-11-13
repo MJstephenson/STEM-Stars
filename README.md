@@ -184,23 +184,36 @@ The website consists of 5 separate pages:
 
 ### Mentors Page
 
+#### Introduction
+- A horizontal card frames text to introduce users to the mentors that are provided and directs users to click on the mentor card buttons to view their experience and qualifications
+- User sories covered: 4
+
+![introduction](docs/features/introduction.png)
+
 #### Card 1
 -	An image of a female tech mentor and a short description explaining what they do including a button linking to the tech mentor bio page
 -	User stories covered: 4,12
+
+![card1](docs/features/card1.png)
 
 #### Card 2
 -	An image of a female engineering mentor and a short description explaining what they do including a button linking to the engineering mentor bio page.
 -	User stories covered: 4,12
 
+![card2](docs/features/card2.png)
+
 #### Video
 -	Contains a you-tube video on female mentors
 -	User stories covered: 2
+
+![video](docs/features/video.png)
 
 ### Tech Mentor Page
 -	Image of Female in tech
 -	Text description of an example of a Tech STEM Star mentor
 -	Contains a card giving a summary of the background of the Tech mentor
 -	Contains a card giving the education of the mentor
+-   Added a table showing availability as an addition to the wireframes
 -	User stories covered: 4,12
 
 ### Engineering Mentor Page
@@ -208,6 +221,7 @@ The website consists of 5 separate pages:
 -	Text description of an example of a Tech STEM Star mentor
 -	Contains a card giving a summary of the background of the Tech mentor
 -	Contains a card giving the education of the mentor
+-   Added a table showing availability as an addition to the wireframes
 -	User stories covered: 4,12
 
 ### Contact Page
