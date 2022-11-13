@@ -294,12 +294,20 @@ The website consists of 5 separate pages:
 -   Added a table showing availability as an addition to the wireframes - see tech mentor page
 -	User stories covered: 4,12
 
-### Back to top Button
+#### Back to top Button
 -   A button that takes you back to the top of the page so the user can access the navbar quickly - see tech mentor page
 
 
 ### Contact Page
+
+#### Title and text
 -	Text asking the user to fill out the form to make an enquiry
+
+![contact_title_text](docs/features/contactheader.png)
+
+#### Contact form
 -	A contact form is provided so that the user can leave a message for STEM stars that includes input fields for: name, email, contact number and a comment.
 -	The user can select whether they are a new or returning user
--	User stories covered: 5,7,14
+-	User stories covered: 9,10,17
+
+![contact_title_text](docs/features/contactform.png)
