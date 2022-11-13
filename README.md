@@ -56,19 +56,22 @@ The project gives an overview of the services provided by ‘STEM Stars’, exam
 3.	As a first time user, I want to know what services STEM Stars provide.
 4.	As a first time user, I want to see an example of a mentor.
 5.	As a first time user, I want to see a bio of a mentor.
-6.	As a first time user, I want to be able to contact STEM Stars for more information and add a comment.
+6.  As a first time user, I want to see the education of the mentor.
+7.  As a first time user, I want to see the certificates the mentor holds.
+8.  As a first time user, I want to be able so see when the mentors are available
+9.	As a first time user, I want to be able to contact STEM Stars for more information and add a comment.
 
 ### Returning User
-7.	As a returning user, I want to be able to contact or re-contact STEM Stars and add a comment.
-8.	As a returning user, I want to be able to find STEM Stars on social media.
+10.	As a returning user, I want to be able to contact or re-contact STEM Stars and add a comment.
+11.	As a returning user, I want to be able to find STEM Stars on social media.
 
 ### Site Owner 
-9.	As the site owner, I want users to be able to contact STEM Stars.
-10.	As the site owner, I want users to be able to get an overview of what STEM Stars is about.
-11.	As the site owner I want users to be able to see statistics about 
-12.	As the site owner I want the users to be able to see examples of mentors that they can access including their bios.
-13.	As the site owner I want users to be able to see what services STEM Stars offers.
-14.	As the site owner I want users to be able to contact and re-contact STEM Stars for more information via a form
+12.	As the site owner, I want users to be able to contact STEM Stars.
+13.	As the site owner, I want users to be able to get an overview of what STEM Stars is about.
+14.	As the site owner I want users to be able to see statistics about females in STEM
+15.	As the site owner I want the users to be able to see examples of mentors that they can access including their bios.
+16.	As the site owner I want users to be able to see what services STEM Stars offers.
+17.	As the site owner I want users to be able to contact and re-contact STEM Stars for more information via a form
 
 
 ## Design
@@ -148,7 +151,7 @@ The website consists of 5 separate pages:
 ### Footer
 -	Provides external links to social media profiles for STEM Stars
 -	Links open new tabs in windows when clicked
--	User stories covered: 8
+-	User stories covered: 11
 
 ![Footer](docs/features/footer.png)
 
@@ -157,27 +160,27 @@ The website consists of 5 separate pages:
 #### Image with Button
 -	Brief explanation of STEM Stars
 -	Button linking to contact page
--	User stories covered: 1,5
+-	User stories covered: 1,3,12,13,16
 
 ![hero](docs/features/herobutton.png)
 
 #### About section
 -	Image of women in tech
 -	Text describing what STEM Stars is about
--	User stories covered: 1,3,10
+-	User stories covered: 1,3,13,16
 
 ![About](docs/features/about.png)
 
 #### Statistics section
 -	An image of statistics regards female retention in STEM
 -	Text to explain the statistics regards female retention in STEM
--	User stories covered: 2,11 
+-	User stories covered: 2,14
 
 ![statistics](docs/features/statistics.png)
 
 #### Services provided section
 -	4 cards, each describing a service provided by STEM Stars
--	User stories covered: 3,13
+-	User stories covered: 3,16
 
 ![statistics](docs/features/services.png)
 
@@ -186,19 +189,19 @@ The website consists of 5 separate pages:
 
 #### Introduction
 - A horizontal card frames text to introduce users to the mentors that are provided and directs users to click on the mentor card buttons to view their experience and qualifications
-- User sories covered: 4
+- User sories covered: 3,13
 
 ![introduction](docs/features/introduction.png)
 
 #### Card 1
 -	An image of a female tech mentor and a short description explaining what they do including a button linking to the tech mentor bio page
--	User stories covered: 4,12
+-	User stories covered: 4
 
 ![card1](docs/features/card1.png)
 
 #### Card 2
 -	An image of a female engineering mentor and a short description explaining what they do including a button linking to the engineering mentor bio page.
--	User stories covered: 4,12
+-	User stories covered: 4
 
 ![card2](docs/features/card2.png)
 
@@ -208,19 +211,71 @@ The website consists of 5 separate pages:
 
 ![video](docs/features/video.png)
 
+
 ### Tech Mentor Page
--	Image of Female in tech
--	Text description of an example of a Tech STEM Star mentor
--	Contains a card giving a summary of the background of the Tech mentor
+
+#### image and Tech Mentor About Section
+-   A technology related image of a laptop
+-   A title and subtitle with text explaining how STEMstars provides tech mentors
+-   User stories covered: 3,13,16
+
+![About_Tech_Mentor](docs/features/abouttechmentor.png)
+
+#### Mentor Card
+-	Image of Female Tech mentor
+-   User stories covered: 4
+
+![eng_mentor_card](docs/features/engmentorcard.png)
+
+#### Bio of Tech Mentor
+-	Text description of a bio for the example of a Tech STEMStar mentor
+-   User stories covered: 4
+
+![bio](docs/features/engbio.png)
+
+#### Education Card
 -	Contains a card giving the education of the mentor
+-   User stories covered: 6
+
+![bio](docs/features/engeducation.png)
+
+#### Certification Card
+-   Contains a card showing the certicates the mentor holds
+-   User stories covered: 7
+
+![certifications](docs/features/engcerts.png)
+
+#### Availability Timetable
 -   Added a table showing availability as an addition to the wireframes
--	User stories covered: 4,12
+-	User stories covered: 8
+
+![Timetable](docs/features/timetable.png)
+
+#### Back to top Button
+-   A button that takes you back to the top of the page so the user can access the navbar quickly
+
+![back_to_top_button](docs/features/backtotopbtn.png)
+
 
 ### Engineering Mentor Page
--	Image of Female in tech
--	Text description of an example of a Tech STEM Star mentor
--	Contains a card giving a summary of the background of the Tech mentor
+
+#### image and Engineering Mentor About Section
+- A technology related image of a laptop
+- A title and subtitle with text explaining how STEMstars provides tech mentors
+
+#### Mentor Card
+-	Image of Female Engineering mentor
+
+#### Bio of Tech Mentor
+-	Text description of a bio for the example of a Tech STEMStar mentor
+
+#### Education Card
 -	Contains a card giving the education of the mentor
+
+#### Certification Card
+- Contains a card showing the certicates the mentor holds
+
+#### Availability Timetable
 -   Added a table showing availability as an addition to the wireframes
 -	User stories covered: 4,12
 
