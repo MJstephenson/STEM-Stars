@@ -368,6 +368,34 @@ All pages now pass with 0 errors.
 </details>
 
 
+### Performance 
+Google Lighthouse within Google Chrome Developer Tools was utilised to test the performance, accessibility, best practice and SEO
+The tests returned some performance issues but after discussions with tutors it was deemed that these were related to hosting the site on github. Lighthouse was run by tutor 'steve' and his test returned 97% on the homepage compared to my 75%
+
+<details><summary>Home</summary>
+<img src="docs/validation/home-light.png">
+</details>
+<details><summary>Mentors</summary>
+<img src="docs/validation/mentor-light.png">
+</details>
+<details><summary>Contact</summary>
+<img src="docs/validation/contact-light.png">
+</details>
+<details><summary>Tech Mentor</summary>
+<img src="docs/validation/tech-light.png">
+</details>
+<details><summary>Engineeering Mentor</summary>
+<img src="docs/validation/eng-light.png">
+</details>
+
+
+### Performing tests on devices 
+The website was tested on the following devices:
+- Asus Vivobook 15" & 24" monitor
+- iphone X
+- iPhone 13 Pro
+
+
 ### Testing user stories
 
 1. As a first time user, I want to know what STEM Stars is about.
