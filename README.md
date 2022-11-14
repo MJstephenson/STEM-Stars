@@ -486,7 +486,7 @@ All pages now pass with 0 errors.
 | footer | On any page click the social icons | opens a new social media page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+<img src="docs/user-testing/socials.png">
 </details>
 
 12. As the site owner, I want users to be able to contact STEM Stars.
