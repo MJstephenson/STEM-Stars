@@ -48,7 +48,7 @@ h2 {
 }
 
 
-/*---------- Navbar styling ----------*/
+/*-- Navbar styling --*/
 
 #nav-title-stem {
     color: #48383F;
@@ -100,7 +100,7 @@ h2 {
 
 }
 
-/*---------- Hero Image ---------*/
+/*-- Hero Image --*/
 
 .hero-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../images/hero-image.webp");
@@ -136,7 +136,7 @@ h2 {
 }
 
 
-/*--------- About section ----------*/
+/*-- About section --*/
 
 .about-padding {
     padding: 40px;
@@ -147,7 +147,7 @@ h2 {
     font-weight: 500;
 }
 
-/*--------- Statistics section ----------*/
+/*-- Statistics section --*/
 
 .chart-icon {
     color: #efef0d;
@@ -159,7 +159,7 @@ h2 {
     font-weight: 500;
 }
 
-/*--------- Services section ----------*/
+/*-- Services section --*/
 
 .services-main {
     color: #edebe3;
@@ -198,7 +198,7 @@ h2 {
 
 }
 
-/* ---------Contact Page ----------*/
+/*-- Contact Page --*/
 
 .contact-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("../images/contact.webp");
@@ -259,7 +259,7 @@ h2 {
     box-shadow: none;
 }
 
-/*---------Mentor Page----------*/
+/*-- Mentor Page --*/
 
 .mentor-text h1 {
     color: #ffffff;
@@ -343,7 +343,7 @@ h2 {
     box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.9);
 }
 
-/*--engineering mentor page --*/
+/*-- engineering mentor page --*/
 
 .eng-bkgr-img {
     background-image: url("../images/eng-bkgr.webp");
@@ -370,7 +370,7 @@ h2 {
     flex-grow: 0;
 }
 
-/*--tech mentor page --*/
+/*-- tech mentor page --*/
 
 .tech-bkgr-img {
     background-image: url("../images/tech-bkgr.webp");
@@ -382,7 +382,7 @@ h2 {
     border-bottom: 15px solid #000;
 }
 
-/*--------- Footer----------*/
+/*-- Footer --*/
 
 footer {
     background: #B5BAC6;
@@ -450,7 +450,7 @@ footer {
     color: #000000;
 }
 
-/*--------- Media Queries ----------*/
+/*-- Media Queries --*/
 
 @media (max-width: 450px) {
     .star {
@@ -503,7 +503,7 @@ footer {
         font-size: 1rem;
     }
 
-    /*-----mentor page media queries----*/
+    /*-- mentor page media queries --*/
 
     .mentor-image,
     .form-card {
@@ -550,7 +550,7 @@ footer {
     }
 }
 
-/*--- mentor enducation cards ------*/
+/*-- mentor enducation cards --*/
 
 .ed-card {
     border: 1px solid #000000;
@@ -565,7 +565,7 @@ footer {
 
 @media screen and (max-width: 480px) {
 
-    /*---- To keep hamburger menu on right of smaller screens ----*/
+    /*-- To keep hamburger menu on right of smaller screens --*/
     .star {
         font-size: 0.9rem;
     }
