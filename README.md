@@ -597,24 +597,30 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 
 
 ## Deployment
-The website was deployed using GitHub Pages by following these steps:
-1. In the GitHub repository navigate to the Settings tab
-2. On the left hand menu select Pages
-3. For the source select Branch: master
-4. After the webpage refreshes automaticaly you will see a ribbon on the top saying: " Your site is published at https://mjstephenson.github.io/STEM-Stars/index.html
 
-You can fork the repository by following these steps:
-1. Go to the GitHub repository
-2. Click on Fork button in upper right hand corner
+The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the [GitHub repository](https://github.com/MJstephenson/STEM-Stars), navigate to the Settings tab 
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://mjstephenson.github.io/STEM-Stars)
+
+### Local Deployment
 
 You can clone the repository by following these steps:
-1. Go to the GitHub repository 
+
+1. Go to the [GitHub repository](https://github.com/MJstephenson/STEM-Stars) 
 2. Locate the Code button above the list of files and click it 
-3. Select if you prefere to clone using HTTPS, SSH, or Github CLI and click the copy button to copy the URL to your clipboard
+3. Select if you prefer to clone using HTTPS, SSH, or GitHub CLI and click the copy button to copy the URL to your clipboard
 4. Open Git Bash
 5. Change the current working directory to the one where you want the cloned directory
-6. Type git clone and paste the URL from the clipboard ($ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY)
+6. In your IDE Terminal, type the following command to clone my repository:
+  - `git clone https://github.com/MJstephenson/STEM-Stars.git`
 7. Press Enter to create your local clone.
+
+Alternatively, if using Gitpod, you can click below to create your own workspace using this repository.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/MJstephenson/STEM-Stars)
 
 
 ## Credits
