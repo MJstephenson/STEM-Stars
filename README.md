@@ -372,7 +372,9 @@ All pages now pass with 0 errors.
 
 ### Performance 
 Google Lighthouse within Google Chrome Developer Tools was utilised to test the performance, accessibility, best practice and SEO
-The tests returned some performance issues but after discussions with tutors it was deemed that these were related to hosting the site on github. Lighthouse was run by tutor 'steve' and his test returned 97% on the homepage compared to my 75%
+The tests returned some performance issues but after discussions with tutors it was deemed that these were related to hosting the site on github. Lighthouse was run by my tutor 'Tim' and his test returned 92% on the homepage compared to my 75%
+
+![Tutor_lighthouse_img](docs/validation/tutor-light.png)
 
 <details><summary>Home</summary>
 ![screenshot](docs/validation/home-light.png)
