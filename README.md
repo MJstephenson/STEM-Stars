@@ -154,6 +154,7 @@ The final tech and engineer pages deviated slightly from the wireframes as the p
 
 ### Footer
 -	Provides external links to social media profiles for STEM Stars
+- Provides a link to my personal Github
 -	Links open new tabs in windows when clicked
 -	User stories covered: 11
 
