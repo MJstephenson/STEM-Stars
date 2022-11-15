@@ -101,19 +101,19 @@ The website consists of 5 separate pages:
 ## Wireframes
 
 <details><summary>Home</summary>
-<img src="docs/wireframes/homepage.png">
+![screenshot](docs/wireframes/homepage.png)
 </details>
 <details><summary>Mentors</summary>
-<img src="docs/wireframes/mentors.png">
+![screenshot](docs/wireframes/mentors.png)
 </details>
 <details><summary>Tech Mentor</summary>
-<img src="docs/wireframes/techmentor.png">
+![screenshot](docs/wireframes/techmentor.png)
 </details>
 <details><summary>Engineering Mentor</summary>
-<img src="docs/wireframes/engmentor.png">
+![screenshot](docs/wireframes/engmentor.png)
 </details>
 <details><summary>Contact</summary>
-<img src="docs/wireframes/contact.png">
+![screenshot](docs/wireframes/contact.png)
 </details>
 
 The final tech and engineer pages deviated slightly from the wireframes as the project was completed as changing the layout with 2 cards side by side seemed to look better overall on a large screen. The cards all line up vertically on smaller screens as this was the best fit for the screen width.
@@ -136,8 +136,8 @@ The final tech and engineer pages deviated slightly from the wireframes as the p
 - [Colormind](https://www.colormind.io/) – For designing and generating a colour pallet 
 - [Font_Awesome](https://www.fontawesome.com/) - For a library of icons 
 - [TinyPNG](https://tinypng.com/) - For image compression
-- [Cloud_convert] (https://cloudconvert.com/) - for png and jpeg to WEBP conversion
-- [Apose] (https://products.aspose.app/imaging/image-compress/webp) for WEBP compression
+- [Cloud_convert](https://cloudconvert.com/) - for png and jpeg to WEBP conversion
+- [Aspose](https://products.aspose.app/imaging/image-compress/webp) for WEBP compression
 - Chrome dev tools for debugging and testing responsiveness during development
 
 
@@ -322,19 +322,19 @@ The final tech and engineer pages deviated slightly from the wireframes as the p
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All of the pages passed with no errors and no warnings to show.
 <details><summary>Home</summary>
-<img src="docs/validation/home.png">
+![screenshot](docs/validation/home.png)
 </details>
 <details><summary>Mentors</summary>
-<img src="docs/validation/home.png">
+![screenshot](docs/validation/home.png)
 </details>
 <details><summary>Contact</summary>
-<img src="docs/validation/veri-contact.png">
+![screenshot](docs/validation/veri-contact.png)
 </details>
 <details><summary>Tech Mentor</summary>
-<img src="docs/validation/veri-tech-mentor.png">
+![screenshot](docs/validation/veri-tech-mentor.png)
 </details>
 <details><summary>Engineering Mentor</summary>
-<img src="docs/validation/veri-eng-mentor.png">
+![screenshot](docs/validation/veri-eng-mentor.png)
 </details>
 
 
@@ -342,7 +342,7 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 When validating custom CSS it passes with no errors found
 <details><summary>Style.css</summary>
-<img src="docs/validation/veri-css.png">
+![screenshot](docs/validation/veri-css.png)
 </details>
 
 ### Accessibility
@@ -350,23 +350,23 @@ The WAVE WebAIM web accessibility evaluation tool was used to ensure the website
 Upon testing the homepage errors were found in the social media links in the footer. The links contain no text and the function or purpose of the link will not be presented to the user. This can introduce confusion for keyboard and screen reader users and is highlighted by the red link icons.
 This was fixed by adding `<span class="sr-only">facebook</span>` to each icon link in the footer code.
 
-<img src="docs/accessibility/errors.png">
+![screenshot](docs/accessibility/errors.png)
 
 All pages now pass with 0 errors.
 <details><summary>Home</summary>
-<img src="docs/accessibility/access-home.png">
+![screenshot](docs/accessibility/access-home.png)
 </details>
 <details><summary>Mentors</summary>
-<img src="docs/accessibility/access-mentors.png">
+![screenshot](docs/accessibility/access-mentors.png)
 </details>
 <details><summary>Contact</summary>
-<img src="docs/accessibility/access-contact.png">
+![screenshot](docs/accessibility/access-contact.png)
 </details>
 <details><summary>Tech Mentor</summary>
-<img src="docs/accessibility/access-tech.png">
+![screenshot](docs/accessibility/access-tech.png)
 </details>
 <details><summary>Eng Mentor</summary>
-<img src="docs/accessibility/access-eng.png">
+![screenshot](docs/accessibility/access-eng.png)
 </details>
 
 
@@ -375,19 +375,19 @@ Google Lighthouse within Google Chrome Developer Tools was utilised to test the 
 The tests returned some performance issues but after discussions with tutors it was deemed that these were related to hosting the site on github. Lighthouse was run by tutor 'steve' and his test returned 97% on the homepage compared to my 75%
 
 <details><summary>Home</summary>
-<img src="docs/validation/home-light.png">
+![screenshot](docs/validation/home-light.png)
 </details>
 <details><summary>Mentors</summary>
-<img src="docs/validation/mentor-light.png">
+![screenshot](docs/validation/mentor-light.png)
 </details>
 <details><summary>Contact</summary>
-<img src="docs/validation/contact-light.png">
+![screenshot](docs/validation/contact-light.png)
 </details>
 <details><summary>Tech Mentor</summary>
-<img src="docs/validation/tech-light.png">
+![screenshot](docs/validation/tech-light.png)
 </details>
 <details><summary>Engineeering Mentor</summary>
-<img src="docs/validation/eng-light.png">
+![screenshot](docs/validation/eng-light.png)
 </details>
 
 
@@ -420,7 +420,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | About section on homepage | Scroll down on home page to about section | shows the about section | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 2. As a first time user I want to know some statistics about females leaving STEM education and STEM roles.
@@ -430,7 +430,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Statistics section | Scroll down on home page to about section | shows the statistics section| Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 3. As a first time user, I want to know what services STEM Stars provide.
@@ -440,7 +440,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Services section | Scroll down on home page | Find 4 cards showing the services offered| Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 4. As a first time user, I want to see an example of a mentor.
@@ -453,8 +453,8 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 
 
 <details><summary>Screenshots</summary>
-<img src="">
-<img src="">
+![screenshot]()
+![screenshot]()
 </details>
 
 5. As a first time user, I want to see a bio of a mentor.
@@ -465,7 +465,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Engineering mentor page | Navigate to the engineering mentor page | find the bio card | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 6. As a first time user, I want to see the education of the mentor.
@@ -476,7 +476,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Engineering mentor page | Navigate to the engineering mentor page | find the education card | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 7. As a first time user, I want to see the certificates the mentor holds.
@@ -487,7 +487,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Engineering mentor page | Navigate to the engineering mentor page | find the certificate card | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 8. As a first time user, I want to be able so see when the mentors are available
@@ -498,7 +498,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Engineering mentor page | Navigate to the engineering mentor page | find the timetable | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 9. As a first time user, I want to be able to contact STEM Stars for more information and add a comment.
@@ -508,7 +508,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Contact Form| Navigate to the Contact Page and, fill out and submit contact form | Data submited via contact form | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 10. As a returning user, I want to be able to contact or re-contact STEM Stars and add a comment.
@@ -518,7 +518,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Contact Form| Navigate to the Contact Page , fill out click returning user buttonand submit contact form | Data submited via contact form | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 11. As a returning user, I want to be able to find STEM Stars on social media.
@@ -528,7 +528,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | footer | On any page click the social icons | opens a new social media page | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="docs/user-testing/socials.png">
+![screenshot](docs/user-testing/socials.png)
 </details>
 
 12. As the site owner, I want users to be able to contact STEM Stars.
@@ -538,7 +538,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Contact Form| Navigate to the Contact Page and, fill out and submit contact form | Data submited via contact form | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 13.	As the site owner, I want users to be able to get an overview of what STEM Stars is about.
@@ -549,7 +549,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | About section on homepage | Scroll down on home page to about section | shows the about section | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 
 </details>
 
@@ -560,7 +560,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Statistics section | Scroll down on home page to about section | shows the statistics section| Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 15.	As the site owner I want the users to be able to see examples of mentors that they can access and information about them.
@@ -572,7 +572,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Engineer mentor example | On engineer mentor page | shows information on tech mentor | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 16.	As the site owner I want users to be able to see what services STEM Stars offers.
@@ -582,7 +582,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Services section | Scroll down on home page | Find 4 cards showing the services offered| Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 17.	As the site owner I want users to be able to contact and re-contact STEM Stars for more information via a form
@@ -592,7 +592,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Contact Form| Navigate to the Contact Page , fill out click new/returning user button and submit contact form | Data submited via contact form | Works as expected |
 
 <details><summary>Screenshots</summary>
-<img src="">
+![screenshot]()
 </details>
 
 
@@ -619,11 +619,11 @@ You can clone the repository by following these steps:
 
 ## Credits
 
-All images are taken from <a href= "https://unsplash.com/">unsplash.com</a>  posted by <a href ="https://unsplash.com/@andyjh07">Andy Holmes</a>, <a href ="https://unsplash.com/@krisroller">Kriss Roller</a>, <a href ="https://unsplash.com/@ryan_hutton_">ryan hutton</a>, <a href ="https://unsplash.com/@ryan_hutton">ryan hutton</a>, <a href ="https://unsplash.com/@joelfilip">Joel Filipe</a>, <a href ="https://unsplash.com/@wocintechchat">christina</a>, <a href ="https://unsplash.com/@pixel_goods">Ally Griffin</a>, <a href ="https://unsplash.com/@cowomen">CoWomen</a>, <a href ="https://unsplash.com/@silvawebdesigns">Nathan da Silva</a> and <a href ="https://unsplash.com/@rgaleriacom">Ricardo Gomez Angel</a> 
+All images are taken from [unsplash.com](https://unsplash.com/) posted by [Andy Holmes](https://unsplash.com/@andyjh07), [Kriss Roller](https://unsplash.com/@krisroller), [ryan hutton](https://unsplash.com/@ryan_hutton), [Joel Filipe](https://unsplash.com/@joelfilip), [christina](https://unsplash.com/@wocintechchat), [Ally Griffin](https://unsplash.com/@pixel_goods), [CoWomen](https://unsplash.com/@cowomen), [Nathan da Silva ](https://unsplash.com/@silvawebdesigns) and [Ricardo Gomez Angel](https://unsplash.com/@rgaleriacom)
 
-with the exception of the statistics image which was taken from <a href= "https://www.pwc.co.uk/who-we-are/women-in-technology/time-to-close-the-gender-gap.html">pwc.com</a>
+with the exception of the statistics image which was taken from [PWC](https://www.pwc.co.uk/who-we-are/women-in-technology/time-to-close-the-gender-gap.html).com
 
-The you-tube video was sourced from <a href= "https://www.youtube.com/watch?v=dUYJvtAg8aU">you-tube.com</a>
+The women in tech you-tube video was sourced from [you-tube](https://www.youtube.com/watch?v=dUYJvtAg8aU)
 
 ## Acknowledgements
 I would like to take the opportunity to thank:
