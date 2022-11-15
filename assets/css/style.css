@@ -454,6 +454,16 @@ footer {
     color: #000000;
 }
 
+.git-icon {
+color:#000000;
+text-shadow: 0px 8px 15px rgba(0, 0, 0, 0.9);
+font-size: 1.8rem;
+}
+
+.git-icon:hover {
+    color:#efef0d;
+}
+
 /*-- Media Queries --*/
 
 @media (max-width: 450px) {
