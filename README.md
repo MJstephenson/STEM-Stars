@@ -116,6 +116,8 @@ The website consists of 5 separate pages:
 <img src="docs/wireframes/contact.png">
 </details>
 
+The final tech and engineer pages deviated slightly from the wireframes as the project was completed as changing the layout with 2 cards side by side seemed to look better overall on a large screen. The cards all line up vertically on smaller screens as this was the best fit for the screen width.
+
 
 ## Technologies Used
 
@@ -396,6 +398,18 @@ The website was tested on the following devices:
 - iPhone 13 Pro
 
 
+## Bugs
+
+There were a range of bugs that needed to be fixed for html validation. They mainly consisted of open and unclosed elements such as divs. There were also bugs where there were to many open sections and stray tags that needed to be deleted.
+
+| **Bug** | **Fix** |
+| ----------- | ----------- |
+| Image overflowed beneath the footer so that the footer was 2/3 up the page |  wrap the page in divs with id's of page container and content wrap |
+| Extra / at and of css link| remove the /  |
+| the element button should not appear a a descendant of `<a>` | remove type=button  |
+| used a path rather than relative path for index.html hero image| use a relative path |
+
+
 ### Testing user stories
 
 1. As a first time user, I want to know what STEM Stars is about.
@@ -614,6 +628,7 @@ The you-tube video was sourced from <a href= "https://www.youtube.com/watch?v=dU
 ## Acknowledgements
 I would like to take the opportunity to thank:
 - My mentor Tim for his feedback, advice, guidance and support.
-- Tutoring from Josh at the code institute for guiding me through issues with page overflow and grid layouts
+- Tutoring from Josh and Steve at the code institute for guiding me through issues with page overflow and grid layouts
+- The students, alumini and mentors that took the time to answer my questions Code institutes Slack
 - Myself for putting all the time in to get this project done through all the late nights after work and weekends.
 - My wife and little boy for listening to me talk about coding non-stop
