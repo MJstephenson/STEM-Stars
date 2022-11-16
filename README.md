@@ -619,23 +619,17 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 
 </details>
 
-4. As a first time user, I want to see an example of a mentor.
+4. 4.	As a first time user, I want to see an example of a mentor.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Mentor card| Navigate to the mentor page | find a card showing a mentor | Works as expected |
-| Tech mentor example | Navigate to the tech mentor page | shows information on tech mentor | Works as expected |
-| Engineer mentor example | On engineer mentor page | shows information on tech mentor | Works as expected |
-
+| Mentor card| Navigate to the mentor page | find a card showing a mentor and use the about me links to navigate to the individual mentor pages | Works as expected |
 
 <details><summary>Screenshots</summary>
 
 ![screenshot](docs/features/card1.png)
 ![screenshot](docs/features/card2.png)
-![screenshot](docs/features/techmentorcard.png)
-![screenshot](docs/features/engmentorcard.png)
 
-</details>
 
 5. As a first time user, I want to see a bio of a mentor.
 
