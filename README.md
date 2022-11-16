@@ -422,7 +422,7 @@ The tests returned some performance issues but after discussions with tutors it 
 ### Performing tests on devices 
 The website was tested on the following devices:
 
-- iphone X
+#### Iphone X
 
 <details><summary>Home</summary>
 
@@ -445,28 +445,52 @@ The website was tested on the following devices:
 ![screenshot](docs/device-tests/iphone-x/iphone-eng.png)
 </details>
 
-- Surface Pro
+#### Surface Duo
 
 <details><summary>Home</summary>
 
-![screenshot](docs/device-tests/iphone-x/iphonex-home.png)
+![screenshot](docs/device-tests/spro/sduo-home.png)
 </details>
 <details><summary>Mentors</summary>
 
-![screenshot](docs/device-tests/iphone-x/iphonex-mentors.png)
+![screenshot](docs/device-tests/spro/sduo-mentors.png)
 </details>
 <details><summary>Contact</summary>
 
-![screenshot](docs/device-tests/iphone-x/iphonex-contact.png)
+![screenshot](docs/device-tests/spro/sduo-contact.png)
 </details>
 <details><summary>Tech Mentor</summary>
 
-![screenshot](docs/device-tests/iphone-x/iphonex-tech.png)
+![screenshot](docs/device-tests/spro/sduo-tech.png)
 </details>
 <details><summary>Engineeering Mentor</summary>
 
-![screenshot](docs/device-tests/iphone-x/iphone-eng.png)
+![screenshot](docs/device-tests/spro/sduo-eng.png)
 </details>
+
+#### Ipad 
+
+<details><summary>Home</summary>
+
+![screenshot]()
+</details>
+<details><summary>Mentors</summary>
+
+![screenshot]()
+</details>
+<details><summary>Contact</summary>
+
+![screenshot]()
+</details>
+<details><summary>Tech Mentor</summary>
+
+![screenshot]()
+</details>
+<details><summary>Engineeering Mentor</summary>
+
+![screenshot]()
+</details>
+
 
 ## Bugs
 
