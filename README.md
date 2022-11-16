@@ -421,9 +421,9 @@ The tests returned some performance issues but after discussions with tutors it 
 
 ### Performing tests on devices 
 The website was tested on the following devices:
-- Asus Vivobook 15"
-- 24" monitor
+
 - iphone X
+
 <details><summary>Home</summary>
 
 ![screenshot](docs/device-tests/iphone-x/iphonex-home.png)
@@ -445,8 +445,28 @@ The website was tested on the following devices:
 ![screenshot](docs/device-tests/iphone-x/iphone-eng.png)
 </details>
 
-- iPhone 13 Pro
+- Surface Pro
 
+<details><summary>Home</summary>
+
+![screenshot](docs/device-tests/iphone-x/iphonex-home.png)
+</details>
+<details><summary>Mentors</summary>
+
+![screenshot](docs/device-tests/iphone-x/iphonex-mentors.png)
+</details>
+<details><summary>Contact</summary>
+
+![screenshot](docs/device-tests/iphone-x/iphonex-contact.png)
+</details>
+<details><summary>Tech Mentor</summary>
+
+![screenshot](docs/device-tests/iphone-x/iphonex-tech.png)
+</details>
+<details><summary>Engineeering Mentor</summary>
+
+![screenshot](docs/device-tests/iphone-x/iphone-eng.png)
+</details>
 
 ## Bugs
 
