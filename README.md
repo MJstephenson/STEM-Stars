@@ -69,7 +69,7 @@ The project gives an overview of the services provided by ‘STEM Stars’, exam
 12.	As the site owner, I want users to be able to contact STEM Stars.
 13.	As the site owner, I want users to be able to get an overview of what STEM Stars is about.
 14.	As the site owner I want users to be able to see statistics about females in STEM
-15.	As the site owner I want the users to be able to see examples of mentors that they can access and information about them.
+15.	As the site owner I want the users to be able to see examples of mentors and be taken to a page where they can access information about them.
 16.	As the site owner I want users to be able to see what services STEM Stars offers.
 17.	As the site owner I want users to be able to contact and re-contact STEM Stars for more information via a form
 
@@ -563,7 +563,7 @@ The website was tested on the following devices:
 </details>
 
 
-## Bugs
+### Bugs
 
 There were a range of bugs that needed to be fixed for html validation. They mainly consisted of open and unclosed elements such as divs. There were also bugs where there were to many open sections and stray tags that needed to be deleted.
 
@@ -583,9 +583,16 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 |-------------|------------|---------------------|-------------------|
 | Hero Image on homepage | open landing page | details shown about stemstars | Works as expected |
 | About section on homepage | Scroll down on home page to about section | shows the about section | Works as expected |
+| About section on eng mentor page | top section | shows the about section | Works as expected |
+| About section on eng mentor page | top section | shows the about section | Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/herobutton.png)
+![screenshot](docs/features/about.png)
+![screenshot](docs/features/abouteng.png)
+![screenshot](docs/features/abouttechmentor.png)
+
 </details>
 
 2. As a first time user I want to know some statistics about females leaving STEM education and STEM roles.
@@ -595,7 +602,9 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Statistics section | Scroll down on home page to about section | shows the statistics section| Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/statistics.png)
+
 </details>
 
 3. As a first time user, I want to know what services STEM Stars provide.
@@ -605,7 +614,9 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Services section | Scroll down on home page | Find 4 cards showing the services offered| Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/services.png)
+
 </details>
 
 4. As a first time user, I want to see an example of a mentor.
@@ -618,8 +629,12 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 
 
 <details><summary>Screenshots</summary>
-![screenshot]()
-![screenshot]()
+
+![screenshot](docs/features/card1.png)
+![screenshot](docs/features/card2.png)
+![screenshot](docs/features/techmentorcard.png)
+![screenshot](docs/features/engmentorcard.png)
+
 </details>
 
 5. As a first time user, I want to see a bio of a mentor.
@@ -630,7 +645,10 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Engineering mentor page | Navigate to the engineering mentor page | find the bio card | Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/techbio.png)
+![screenshot](docs/features/engbio.png)
+
 </details>
 
 6. As a first time user, I want to see the education of the mentor.
@@ -641,7 +659,10 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Engineering mentor page | Navigate to the engineering mentor page | find the education card | Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/techeducation.png)
+![screenshot](docs/features/engedu.png)
+
 </details>
 
 7. As a first time user, I want to see the certificates the mentor holds.
@@ -652,7 +673,10 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Engineering mentor page | Navigate to the engineering mentor page | find the certificate card | Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/techcerts.png)
+![screenshot](docs/features/engcerts.png)
+
 </details>
 
 8. As a first time user, I want to be able so see when the mentors are available
@@ -663,7 +687,9 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Engineering mentor page | Navigate to the engineering mentor page | find the timetable | Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/timetable.png)
+
 </details>
 
 9. As a first time user, I want to be able to contact STEM Stars for more information and add a comment.
@@ -673,7 +699,9 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Contact Form| Navigate to the Contact Page and, fill out and submit contact form | Data submited via contact form | Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/contactform.png)
+
 </details>
 
 10. As a returning user, I want to be able to contact or re-contact STEM Stars and add a comment.
@@ -683,7 +711,9 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Contact Form| Navigate to the Contact Page , fill out click returning user buttonand submit contact form | Data submited via contact form | Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/radio.png)
+
 </details>
 
 11. As a returning user, I want to be able to find STEM Stars on social media.
@@ -695,6 +725,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 <details><summary>Screenshots</summary>
 
 ![screenshot](docs/user-testing/socials.png)
+
 </details>
 
 12. As the site owner, I want users to be able to contact STEM Stars.
@@ -704,7 +735,9 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Contact Form| Navigate to the Contact Page and, fill out and submit contact form | Data submited via contact form | Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/contactform.png)
+
 </details>
 
 13.	As the site owner, I want users to be able to get an overview of what STEM Stars is about.
@@ -713,9 +746,15 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 |-------------|------------|---------------------|-------------------|
 | Hero Image on homepage | open landing page | details shown about stemstars | Works as expected |
 | About section on homepage | Scroll down on home page to about section | shows the about section | Works as expected |
+| About section on eng mentor page | top section | shows the about section | Works as expected |
+| About section on eng mentor page | top section | shows the about section | Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/herobutton.png)
+![screenshot](docs/features/about.png)
+![screenshot](docs/features/abouteng.png)
+![screenshot](docs/features/abouttechmentor.png)
 
 </details>
 
@@ -726,19 +765,24 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Statistics section | Scroll down on home page to about section | shows the statistics section| Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/statistics.png)
+
 </details>
 
-15.	As the site owner I want the users to be able to see examples of mentors that they can access and information about them.
+15.	As the site owner I want the users to be able to see examples of mentors and be taken to a page where they can access information about them.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
-| Mentor card| Navigate to the mentor page | find a card showing a mentor | Works as expected |
+| Mentor card| Navigate to the mentor page | find a card showing a mentor and use the about me links to navigate to the individual mentor pages | Works as expected |
 | Tech mentor example | Navigate to the tech mentor page | shows information on tech mentor | Works as expected |
 | Engineer mentor example | On engineer mentor page | shows information on tech mentor | Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/card1.png)
+![screenshot](docs/features/card2.png)
+
 </details>
 
 16.	As the site owner I want users to be able to see what services STEM Stars offers.
@@ -748,7 +792,9 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Services section | Scroll down on home page | Find 4 cards showing the services offered| Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/services.png)
+
 </details>
 
 17.	As the site owner I want users to be able to contact and re-contact STEM Stars for more information via a form
@@ -758,7 +804,10 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | Contact Form| Navigate to the Contact Page , fill out click new/returning user button and submit contact form | Data submited via contact form | Works as expected |
 
 <details><summary>Screenshots</summary>
-![screenshot]()
+
+![screenshot](docs/features/contactform.png)
+![screenshot](docs/features/radio.png)
+
 </details>
 
 
