@@ -384,7 +384,7 @@ All pages now pass with 0 errors.
 
 ### Performance 
 Google Lighthouse within Google Chrome Developer Tools was utilised to test the performance, accessibility, best practice and SEO
-The tests returned some performance issues but after discussions with tutors it was deemed that these were related to hosting the site on github. For example Lighthouse was run by my tutor 'Tim' and his test returned 92% on the homepage compared to my 7%
+The tests returned some performance issues but after discussions with tutors it was deemed that these were related to hosting the site on github. For example Lighthouse was run by my tutor 'Tim' and his test returned 92% on the homepage compared to my 76%
 
 ![Tutor_lighthouse_img](docs/validation/tutor-light.png)
 
@@ -422,73 +422,116 @@ The tests returned some performance issues but after discussions with tutors it 
 ### Performing tests on devices 
 The website was tested on the following devices:
 
-#### Iphone X
+#### Iphone X (375 wide)
 
 <details><summary>Home</summary>
 
 ![screenshot](docs/device-tests/iphone-x/iphonex-home.png)
+
 </details>
 <details><summary>Mentors</summary>
 
 ![screenshot](docs/device-tests/iphone-x/iphonex-mentors.png)
+
 </details>
 <details><summary>Contact</summary>
 
 ![screenshot](docs/device-tests/iphone-x/iphonex-contact.png)
+
 </details>
 <details><summary>Tech Mentor</summary>
 
 ![screenshot](docs/device-tests/iphone-x/iphonex-tech.png)
+
 </details>
 <details><summary>Engineeering Mentor</summary>
 
 ![screenshot](docs/device-tests/iphone-x/iphone-eng.png)
+
 </details>
 
-#### Surface Duo
+#### Surface Duo (540 wide)
 
 <details><summary>Home</summary>
 
-![screenshot](docs/device-tests/spro/sduo-home.png)
+![screenshot](docs/device-tests/sduo/sduo-home.png)
+
 </details>
 <details><summary>Mentors</summary>
 
-![screenshot](docs/device-tests/spro/sduo-mentors.png)
+![screenshot](docs/device-tests/sduo/sduo-mentors.png)
+
 </details>
 <details><summary>Contact</summary>
 
-![screenshot](docs/device-tests/spro/sduo-contact.png)
+![screenshot](docs/device-tests/sduo/sduo-mentors.png)
+
 </details>
 <details><summary>Tech Mentor</summary>
 
-![screenshot](docs/device-tests/spro/sduo-tech.png)
+![screenshot](docs/device-tests/sduo/sduo-tech.png)
+
 </details>
 <details><summary>Engineeering Mentor</summary>
 
-![screenshot](docs/device-tests/spro/sduo-eng.png)
+![screenshot](docs/device-tests/sduo/sduo-eng.png)
+
 </details>
 
-#### Ipad 
+#### Ipad (768 wide)
 
 <details><summary>Home</summary>
 
 ![screenshot](docs/device-tests/ipad/ipad-home.png)
+
 </details>
 <details><summary>Mentors</summary>
 
 ![screenshot](docs/device-tests/ipad/ipad-mentors.png)
+
 </details>
 <details><summary>Contact</summary>
 
 ![screenshot](docs/device-tests/ipad/ipad-contact.png)
+
 </details>
 <details><summary>Tech Mentor</summary>
 
 ![screenshot](docs/device-tests/ipad/ipad-tech.png)
+
 </details>
 <details><summary>Engineeering Mentor</summary>
 
 ![screenshot](docs/device-tests/ipad/ipad-eng.png)
+
+</details>
+
+#### Nest Hub Max (1280 wide)
+
+<details><summary>Home</summary>
+
+![screenshot](docs/device-tests/nest-hub-max/nestm-home.png)
+
+</details>
+<details><summary>Mentors</summary>
+
+![screenshot](docs/device-tests/nest-hub-max/nestm-mentors.png)
+
+</details>
+<details><summary>Contact</summary>
+
+![screenshot](docs/device-tests/nest-hub-max/nestm-contact.png)
+
+</details>
+<details><summary>Tech Mentor</summary>
+
+![screenshot](docs/device-tests/nest-hub-max/nestm-tech.png)
+
+</details>
+<details><summary>Engineeering Mentor</summary>
+
+![screenshot](docs/device-tests/nest-hub-max/nestm-eng.png)
+
 </details>
 
 
@@ -729,7 +772,7 @@ The women in tech you-tube video was sourced from [you-tube](https://www.youtube
 ## Acknowledgements
 I would like to take the opportunity to thank:
 - My mentor Tim for his feedback, advice, guidance and support.
-- Tutoring from Josh and Steve at the code institute for guiding me through issues with page overflow and grid layouts
+- Tutoring from Josh and Steve in student support at the code institute for guiding me through issues with page overflow and grid layouts
 - The students, alumini and mentors that took the time to answer my questions Code institutes Slack
 - Myself for putting all the time in to get this project done through all the late nights after work and weekends.
 - My wife and little boy for listening to me talk about coding non-stop
