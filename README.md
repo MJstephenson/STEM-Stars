@@ -534,6 +534,34 @@ The website was tested on the following devices:
 
 </details>
 
+#### 24 inch monitor
+
+<details><summary>Home</summary>
+
+![screenshot](docs/device-tests/24inch-monitor/24home.png)
+
+</details>
+<details><summary>Mentors</summary>
+
+![screenshot](docs/device-tests/24inch-monitor/24mentors.png)
+
+</details>
+<details><summary>Contact</summary>
+
+![screenshot](docs/device-tests/24inch-monitor/24contact.png)
+
+</details>
+<details><summary>Tech Mentor</summary>
+
+![screenshot](docs/device-tests/24inch-monitor/24tech.png)
+
+</details>
+<details><summary>Engineeering Mentor</summary>
+
+![screenshot](docs/device-tests/24inch-monitor/24eng.png)
+
+</details>
+
 
 ## Bugs
 
