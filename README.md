@@ -323,18 +323,23 @@ The final tech and engineer pages deviated slightly from the wireframes as the p
 ### HTML Validation
 The W3C Markup Validation Service was used to validate the HTML of the website. All of the pages passed with no errors and no warnings to show.
 <details><summary>Home</summary>
+
 ![screenshot](docs/validation/home.png)
 </details>
 <details><summary>Mentors</summary>
+
 ![screenshot](docs/validation/home.png)
 </details>
 <details><summary>Contact</summary>
+
 ![screenshot](docs/validation/veri-contact.png)
 </details>
 <details><summary>Tech Mentor</summary>
+
 ![screenshot](docs/validation/veri-tech-mentor.png)
 </details>
 <details><summary>Engineering Mentor</summary>
+
 ![screenshot](docs/validation/veri-eng-mentor.png)
 </details>
 
@@ -343,6 +348,7 @@ The W3C Markup Validation Service was used to validate the HTML of the website. 
 The W3C Jigsaw CSS Validation Service was used to validate the CSS of the website.
 When validating custom CSS it passes with no errors found
 <details><summary>Style.css</summary>
+
 ![screenshot](docs/validation/veri-css.png)
 </details>
 
@@ -355,49 +361,90 @@ This was fixed by adding `<span class="sr-only">facebook</span>` to each icon li
 
 All pages now pass with 0 errors.
 <details><summary>Home</summary>
+
 ![screenshot](docs/accessibility/access-home.png)
 </details>
 <details><summary>Mentors</summary>
+
 ![screenshot](docs/accessibility/access-mentors.png)
 </details>
 <details><summary>Contact</summary>
+
 ![screenshot](docs/accessibility/access-contact.png)
 </details>
 <details><summary>Tech Mentor</summary>
+
 ![screenshot](docs/accessibility/access-tech.png)
 </details>
 <details><summary>Eng Mentor</summary>
+
 ![screenshot](docs/accessibility/access-eng.png)
 </details>
 
 
 ### Performance 
 Google Lighthouse within Google Chrome Developer Tools was utilised to test the performance, accessibility, best practice and SEO
-The tests returned some performance issues but after discussions with tutors it was deemed that these were related to hosting the site on github. Lighthouse was run by my tutor 'Tim' and his test returned 92% on the homepage compared to my 75%
+The tests returned some performance issues but after discussions with tutors it was deemed that these were related to hosting the site on github. For example Lighthouse was run by my tutor 'Tim' and his test returned 92% on the homepage compared to my 7%
 
 ![Tutor_lighthouse_img](docs/validation/tutor-light.png)
 
 <details><summary>Home</summary>
+
 ![screenshot](docs/validation/home-light.png)
+
 </details>
+
 <details><summary>Mentors</summary>
+
 ![screenshot](docs/validation/mentor-light.png)
+
 </details>
+
 <details><summary>Contact</summary>
+
 ![screenshot](docs/validation/contact-light.png)
+
 </details>
+
 <details><summary>Tech Mentor</summary>
+
 ![screenshot](docs/validation/tech-light.png)
+
 </details>
+
 <details><summary>Engineeering Mentor</summary>
+
 ![screenshot](docs/validation/eng-light.png)
+
 </details>
 
 
 ### Performing tests on devices 
 The website was tested on the following devices:
-- Asus Vivobook 15" & 24" monitor
+- Asus Vivobook 15"
+- 24" monitor
 - iphone X
+<details><summary>Home</summary>
+
+![screenshot](docs/device-tests/iphone-x/iphonex-home.png)
+</details>
+<details><summary>Mentors</summary>
+
+![screenshot](docs/device-tests/iphone-x/iphonex-mentors.png)
+</details>
+<details><summary>Contact</summary>
+
+![screenshot](docs/device-tests/iphone-x/iphonex-contact.png)
+</details>
+<details><summary>Tech Mentor</summary>
+
+![screenshot](docs/device-tests/iphone-x/iphonex-tech.png)
+</details>
+<details><summary>Engineeering Mentor</summary>
+
+![screenshot](docs/device-tests/iphone-x/iphone-eng.png)
+</details>
+
 - iPhone 13 Pro
 
 
@@ -531,6 +578,7 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 | footer | On any page click the social icons | opens a new social media page | Works as expected |
 
 <details><summary>Screenshots</summary>
+
 ![screenshot](docs/user-testing/socials.png)
 </details>
 
