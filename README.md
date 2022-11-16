@@ -472,23 +472,23 @@ The website was tested on the following devices:
 
 <details><summary>Home</summary>
 
-![screenshot]()
+![screenshot](docs/device-tests/ipad/ipad-home.png)
 </details>
 <details><summary>Mentors</summary>
 
-![screenshot]()
+![screenshot](docs/device-tests/ipad/ipad-mentors.png)
 </details>
 <details><summary>Contact</summary>
 
-![screenshot]()
+![screenshot](docs/device-tests/ipad/ipad-contact.png)
 </details>
 <details><summary>Tech Mentor</summary>
 
-![screenshot]()
+![screenshot](docs/device-tests/ipad/ipad-tech.png)
 </details>
 <details><summary>Engineeering Mentor</summary>
 
-![screenshot]()
+![screenshot](docs/device-tests/ipad/ipad-eng.png)
 </details>
 
 
