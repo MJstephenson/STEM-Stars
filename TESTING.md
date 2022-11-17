@@ -2,6 +2,12 @@
 
 Return back to the [README.md](README.md) file.
 
+## Browser Compatability
+
+All pages were tested and worked on:
+- Firefox Version 108
+- Chrome Version 107.0.5304.110 (Official Build) (64-bit)
+
 ## Validation
 
 ### HTML Validation
@@ -301,17 +307,18 @@ There were a range of bugs that needed to be fixed for html validation. They mai
 
 </details>
 
-4. 4.	As a first time user, I want to see an example of a mentor.
+4. As a first time user, I want to see an example of a mentor.
 
 | **Feature** | **Action** | **Expected Result** | **Actual Result** |
 |-------------|------------|---------------------|-------------------|
 | Mentor card| Navigate to the mentor page | find a card showing a mentor and use the about me links to navigate to the individual mentor pages | Works as expected |
 
-<details><summary>Screenshots</summary>
+<details><summary>Screenshots</summary>#
 
 ![screenshot](docs/features/card1.png)
 ![screenshot](docs/features/card2.png)
 
+</details>
 
 5. As a first time user, I want to see a bio of a mentor.
 
