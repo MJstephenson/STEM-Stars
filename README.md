@@ -101,19 +101,33 @@ The website consists of 5 separate pages:
 ## Wireframes
 
 <details><summary>Home</summary>
+
 ![screenshot](docs/wireframes/homepage.png)
+
 </details>
+
 <details><summary>Mentors</summary>
+
 ![screenshot](docs/wireframes/mentors.png)
+
 </details>
+
 <details><summary>Tech Mentor</summary>
+
 ![screenshot](docs/wireframes/techmentor.png)
+
 </details>
+
 <details><summary>Engineering Mentor</summary>
+
 ![screenshot](docs/wireframes/engmentor.png)
+
 </details>
+
 <details><summary>Contact</summary>
+
 ![screenshot](docs/wireframes/contact.png)
+
 </details>
 
 The final tech and engineer pages deviated slightly from the wireframes as the project was completed as changing the layout with 2 cards side by side seemed to look better overall on a large screen. The cards all line up vertically on smaller screens as this was the best fit for the screen width.
